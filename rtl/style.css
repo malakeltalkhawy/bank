@@ -1,0 +1,260 @@
+/* bank task */
+*{
+box-sizing: border-box;
+outline: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+border-bottom: 2px solid orange;
+}
+nav form input{
+background: none;
+}
+nav i{
+padding-left: 220px;
+}
+
+::placeholder{
+color: gray;
+text-align: left;
+}
+.form-control{
+background: none;
+border: none;
+}
+#nav-link{
+align-items: center;
+}
+#nav-link a{
+font-weight: normal;
+float: right;
+}
+#navbar:hover{
+background-color: #EEA01E;
+}
+/* start header */
+main{
+width: 100%;
+transform: scale(1,0.7);
+}
+#article1{
+margin: 0px 20px 0px 20px ;
+float: left;
+width: 100%;
+justify-content: space-around;
+border-bottom: 1px solid orange;
+}
+#card{
+border: none;
+float: left;
+width: 5%;
+margin: 0px 10px 0px 10px ;
+padding: 0px 20px 0px 20px ; 
+}
+#card :hover{
+background-color: lightgrey;
+}
+.container-header{
+display: inline-block;
+}
+#banklogo{
+float: right;
+padding-right: 10px;
+}
+.clear{
+clear: both;
+}
+/* end header */
+/* start img */
+.article-logo{
+width: 100%;
+display: inline-block;
+padding: 5px 0px;
+padding-left: 100px;
+align-items: center;
+justify-content: space-between;
+background-color: #EEA01E;
+color: white;
+}
+.divarticlelogo{
+width: 24%;
+display: inline-block;
+}
+/* .divarticlelogo  :hover{
+background-color: silver;
+} */
+.divarticlelogo img , .divarticlelogo p{
+float: right;
+padding: 0px 3px;
+}
+.divarticlelogo button{
+background-color: #2E6743;
+color: white;
+border: none;
+}
+/* end img */
+.article2{
+    width: 100%;
+    display: inline-block;
+    padding: 50px ;
+    padding-left: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+#imgtop{
+border-radius: 5%;
+}
+.card #card{
+width: 33.33%;
+}
+.carousel-slide{
+background-color: gray;
+}
+
+.article3{
+width: 100%;
+display: inline-block;
+padding: 50px 0px;
+padding-left: 100px;
+align-items: center;
+justify-content: space-between;
+}
+.youtubevideo{
+width: 50%;
+display: inline-block;
+}
+.divtopfo{
+padding: 0px 50px ;
+padding-left: 100px;
+width: 100%;
+align-items: center;
+padding-right: 100px;
+}
+/* start top footer */
+.topfooterlogo{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 0px;
+    padding-left: 100px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EEA01E;
+    color: white;
+}
+.topfooerlogo{
+width: 12%;
+display: inline-block;
+}
+.topfooerlogo :hover{
+background-color: rgb(212, 164, 75);
+}
+.topfooerlogo img{
+align-items: center;
+}
+/* end top footer */
+/* start article footer */
+.articlefooter{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 0px;
+    padding-left: 100px;
+    align-items: center;
+    justify-content: space-between;
+    background-color:white;
+    color: black;
+}
+.divarticlefooter{
+    width: 19%;
+    display: inline-block;
+    padding: 5px;
+}
+.divarticlefooter h6{
+text-align: center;
+color: #EEA01E;
+}
+/* end article footer */
+/* start middle footer  */
+.middle-footer{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 0px;
+    padding-left: 100px;
+    align-items: center;
+    justify-content: space-between;
+    background-color:white;
+    color: black;
+}
+.divmiddle{
+    width: 49%;
+    display: inline-block;
+    padding: 5px;
+}
+.divmiddle h6{
+    text-align: right;
+    color: #EEA01E;
+}
+.divmiddle p{
+text-align: right;
+}
+/* end middle footer  */
+/* start footer  */
+footer{
+background-color: #EEA01E;
+color: white;
+width: 100%;
+padding: 3px;
+}
+footer p{
+padding-left: 15px;
+padding: 3px;
+}
+/* end footer */
+/* media Query */
+@media screen and (max-width:899px) {
+nav{
+border-bottom: 0.5px solid orange;
+font-size: 1px;
+color:#EEA01E;
+
+}
+nav i{
+padding-left: 0px;
+}
+
+main{
+width: 100%;
+font-size:xx-small;
+}
+#article1{
+margin: 0px 20px 0px 20px ;
+float: left;
+width: 100%;
+border-bottom: 1px solid orange;
+}
+#card{
+border: none;
+float: left;
+width: 50%;
+}
+.container-header{
+display: inline-block;
+}
+#banklogo{
+/* align-items: center; */
+padding-right: 0px;
+}
+.article3{
+width: 50%;
+align-items: center;
+}
+.youtubevideo{
+width: 100%;
+float: left;
+}
+.divtopfo{
+align-items: center;
+}
+}
+/* end Query */
+
+

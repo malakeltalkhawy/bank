@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)https://www.nbe.com.eg/NBE/E/#/AR/Home -->
+<html lang="en-US" style="display: none"><head id="HeadTag"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="format-detection" content="telephone=no"><meta http-equiv="x-rim-auto-match" content="none"><meta name="msapplication-tap-highlight" content="no"><meta property="og:title" content="National Bank of Egypt"><meta property="og:description" content="National Bank of Egypt Home Page"><meta property="og:image" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="og:url" content=""><meta property="fb:app_id" content="1062351923915207"><meta property="og:type" content="website">
+<meta name="facebook-domain-verification" content="f3ocyxvn01fcv8pqna1s465lz05goa">
+<link rel="shortcut icon" href="https://www.nbe.com.eg/NBE/Mainsite/siteimages/favicon.ico"><title>البنك الأهلى المصرى - الصفحة الرئيسية</title><script id="facebook-jssdk"></script><script type="text/javascript" async="" src="./book_files/analytics.js.download"></script><script type="text/javascript" async="" src="./book_files/js"></script><script src="./book_files/358617765440304" async=""></script><script async="" src="./book_files/fbevents.js.download"></script><script src="./book_files/sdk.js.download" async="" crossorigin="anonymous"></script><script type="text/javascript" src="./book_files/PortalConfig.js.download"></script><script type="text/javascript" src="./book_files/DynamicConfig.js.download"></script><script type="text/javascript" src="./book_files/EnvSetting.js.download"></script><script src="./book_files/jquery-3.3.1.min.js.download"></script><script src="./book_files/BusinessVirtualFunctions.js.download"></script><script src="./book_files/InitData.js.download"></script><script src="./book_files/VersionSettings.js.download"></script><script src="./book_files/BusinessSchemas.js.download"></script><script src="./book_files/CommonHandling.js.download"></script><script src="./book_files/PortalExtentions.js.download"></script><script src="./book_files/PortalHelperFunctions.js.download"></script><script src="./book_files/PortalConvertion.js.download"></script><script src="./book_files/ePortalMainScript.js.download"></script><script src="./book_files/DateFunctions.min.js.download"></script><script src="./book_files/lscache.js.download"></script><script src="./book_files/PrizesConstants.js.download"></script><script src="./book_files/PortalXorc.js.download"></script><script src="./book_files/Caching.js.download"></script><script src="./book_files/ExchangeRateConstants.js.download"></script><script src="./book_files/PrizesConstants.js.download"></script><script src="./book_files/CustomerConstants.js.download"></script><script src="./book_files/GeneralCMCallHandler.js.download"></script><script src="./book_files/swiper.js.download"></script><script src="./book_files/productcat.js.download"></script><script src="./book_files/ProductCatalogConstants.js.download"></script><script src="./book_files/jquery.alerts.js.download"></script><script src="./book_files/PaymentConstants.js.download"></script><script src="./book_files/js(1)"></script><script src="./book_files/geolocation-marker.js.download"></script><script src="./book_files/UI-effects.js.download"></script><script src="./book_files/aes.js.download"></script><script src="./book_files/SMEsConstants.js.download"></script><script src="./book_files/ATMBranchConstants.js.download"></script><script src="./book_files/PortalEncryptions.js.download"></script><script src="./book_files/ContactUsConstants.js.download"></script><script src="./book_files/StaticWidgets.js.download"></script><script src="./book_files/ePortal5Core.js.download"></script><script src="./book_files/RouteHandling.js.download"></script><script src="./book_files/PortalEvents.js.download"></script><script src="./book_files/Globals.js.download"></script><script src="./book_files/CommonForm.js.download"></script><script src="./book_files/PortalReflection.js.download"></script><script src="./book_files/CommonFormWithMWCall.js.download"></script><script src="./book_files/HRFunctions.js.download"></script><script src="./book_files/jquery.tmpl.min.js.download"></script><script src="./book_files/jquery.tmplPlus.min.js.download"></script><script src="./book_files/HRConstants.js.download"></script><script src="./book_files/SiteConstants.js.download"></script><script src="./book_files/SiteFunctions.js.download"></script><script src="./book_files/jquery-migrate-3.0.1.min.js.download"></script><script src="./book_files/jquery-ui.min.js.download"></script><script src="./book_files/datepicker-ar.js.download"></script><script src="./book_files/knockout-3.1.0.js.download"></script><script src="./book_files/wow.js.download"></script><script src="./book_files/sdk(1).js.download"></script><script src="./book_files/js.cookie.js.download"></script><script src="./book_files/confetti.js.download"></script>
+    
+    <script type="text/javascript">
+             if(document.location.hash=="")                {  document.location.hash="#/EN/Home";    }              
+        $(document).ready(function () {
+            GenerateXSRFToken();
+            var IgnoreCompatibility = getParameterByName("IgnoreCompatibility", window.location.href);
+            var CheckBowserCompatibilityFirst = (IgnoreCompatibility == "true") ? false : true;
+			ApplyGoogleAnalytics();
+            if (CheckBowserCompatibilityFirst) {
+                if (CheckBowserCompatibility()) {
+                    HandlePortalURL();
+                    try { BusinessVirtualFunctions.OnMainPortalDocReady(); } catch (e) { };
+                }
+            } else {
+                HandlePortalURL();
+                try { BusinessVirtualFunctions.OnMainPortalDocReady(); } catch (e) { };
+            }
+        });
+
+        
+    </script>
+    <!-- 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+		<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css> 
+		<link href= https://plugin.accessibilityeg.com/app.js rel=preload as=script>
+		<div id="wacg-wrapper" data-wacgid="8WR5GV6RNKT1AEIHN4X160JDB9GMTODCT"> 
+		<div id=wacg></div> </div>
+		<script src= https://plugin.accessibilityeg.com/app.js> </script>  -->
+    <script type="text/javascript">
+	function ApplyGoogleAnalytics(){
+		var GoogleAnalyticsEnabled = config.Settings.GoogleAnalyticsEnabled;
+		var GoogleAnalyticsTrackingID = config.Settings.GoogleAnalyticsTrackingID;
+
+		if(config.Settings["GoogleAnalyticsEnabled"] && config.Settings["GoogleAnalyticsEnabled"].toLowerCase() == "true"){	
+		// document.getElementsByTagName('head')[0].innerHTML += "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-84614217-3'/>";
+		//document.getElementsByTagName('head')[0].innerHTML += "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-163986955-1'/>";
+		$('head').append("<script async src='https://www.googletagmanager.com/gtag/js?id=" + GoogleAnalyticsTrackingID + "'/>")
+			window.dataLayer = window.dataLayer || [];	
+			window.gtag = function(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+		}
+	}		
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+var FacebookPixelID = config.Settings.FacebookPixelID;
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init',  FacebookPixelID);
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=" + FacebookPixelID + "&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+  
+<style type="text/css"></style><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://z-p3-static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style><script async="" src="./book_files/js(2)"></script><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/MasterStyle-rtl.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/LandingPage_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/HRSystem_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/animate.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/atm_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ContactUs_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/Login_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/CustomerProfile_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ExchangeRate_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/Prizes_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/productcat_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/swiper.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/DCPortalAR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/StaticWidget_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/AllStaticWidget_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ProductCatalog_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ProductCatalog_EN.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/AllCategoriesCss_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/jquery-ui.min.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/AllProductsCss_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/AllProductTypesCss_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/Dynamic content_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/Category_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ePortal5VirtualStyles.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/personalTheme.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/Product_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/ProductType_AR.css"><link configuredstylecss="" ar="" rel="stylesheet" href="./book_files/CustomNBE_AR.css"><script type="text/javascript" charset="UTF-8" src="./book_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./book_files/util.js.download"></script></head>
+<body id="PageBody" class="PagePody">
+    <div id="LoadingSpinner" class="LoadingSpinner" style="display: none;">
+        <img src="./book_files/NBE-Spinner.gif">
+    </div>
+    <div id="ALLPageContent" class="AllPageContent" style="margin-bottom: 745px !important;">
+        <div id="HeaderContainer" class="HeaderContainer">
+        </div>
+        <div id="PageContent" class="PageContent">
+            <div id="ContentPanel" class="ContentPanel">
+              
+            <div subpageid="Home" id="Layout_3VerticalContainers_2sidesContainers" class="Layout Layout_3VerticalContainers_2sidesContainers Layout_3VerticalContainers_2sidesContainers"><div id="layout_3VerticalContainers_2sidesContainers_header" class="LayoutContainerDiv layout_3VerticalContainers_2sidesContainers_header layout_3VerticalContainers_2sidesContainers_header full-section"><div class="ZoneInstanceContainer"><div class="ZoneBody main-nav-bar">        <div id="zninsAppLayoutHeaderNavbar_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutHeaderNavbar_Default Zone_znAppLayoutHeaderNavbar_Class section undefined"><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutCustomerWelcome_Default_Container"><div id="wginsAppLayoutCustomerWelcome_Default" class="WidgetInstance wginsAppLayoutCustomerWelcome_Default undefined WidgetInstance_wginsAppLayoutCustomerWelcome_Default_Class"><div id="divAppLayOutHeaderWelcomeMenu" class="user_menu HideElement">      <button class="user_menu-btn gray-bg-1">          <img src="./book_files/customer-icon.png">          <span class="hidden-tab">أهلا بك |</span>          <p id="pAppLayOutHeaderUserName" class=""></p>          <span class="spAppLayOutCustomerWelcomeNotificationNo HideElement"></span>      </button>      <div class="user_menu-content">          <div id="divAppLayOutHeaderViewProfile" class="link-cont"><button>عرض الصفحة الشخصية</button></div>          <div id="divAppLayOutHeaderNotification" class="link-cont"><button>إشعارات<span class="spAppLayOutCustomerWelcomeNotificationNo HideElement"></span></button></div>          <div id="divAppLayOutHeaderFavoriteList" class="link-cont"><button>القائمة المفضلة</button></div>          <div id="divAppLayOutHeaderFollowUp" class="link-cont"><button>المتابعة</button></div>          <div id="divAppLayOutHeaderLogOut" class="link-cont logoutlink"><button>الخروج</button></div>      </div>  </div></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsNBEDynamicWidget_SideMegaMenu_Container"><div id="wginsNBEDynamicWidget_SideMegaMenu" class="WidgetInstance wginsNBEDynamicWidget_SideMegaMenu undefined WidgetInstance_wginsNBEDynamicWidget_SideMegaMenu_Class"><div id="GeneratedContent" forcontentid="NBE_DC_SideMenu"><div id="sa"><div placeholderid="VerticalSection1" class="hidden-tab hidden-lab hidden-dek slide-menu-btn" id="VerticalSection1">
+    <div id="sa" itemid="NBE_DC_SideMenuItem1" itemactionid="NBE_DC_SideMenuItem1_OpenSubMenu_SideMenuSwiperItems" class="DCItem">
+<button id="SideMenuOpenSubMenu" onclick="openNav(event)">
+	<img propertyid="imageSrc" src="./book_files/ico-slide-menu.svg" class="img-full-width" alt="menu" defaultvalue="images/DefaultIcons/Header.png">
+</button>
+<div id="mySidenav" class="navbar-menu-tabs overflow-hidden sidenav hidden-tab hidden-lab hidden-dek MenuSlidableElement" style="display: block;" submenuid="SideMenuSwiperItems" submenuforitemid="NBE_DC_SideMenuItem1">
+ <a href="javascript:void(0)" class="closebtn admin-hide" onclick="closeNav(event)">×</a>
+                    <div class="relative-container">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper" placeholderid="VerticalSection1" id="VerticalSection1">
+                               <div class="swiper-slide DCItem" id="main" itemid="MainLinks_8bc29e38" itemactionid="MainLinks_8bc29e38_NoAction">
+
+                                    <div class="tab-label">
+                                        <img propertyid="imgSrc" src="./book_files/mini-logo.svg" defaultvalue="image/mini-logo.svg">
+                                        <p propertyid="Name">القوائم الرئيسية</p>
+                                    </div>
+									<div class="drop-down-admin">
+                                     <img src="./book_files/drop-down.svg">
+                                     </div>
+                                </div><div class="swiper-slide DCItem" id="main" itemid="saf_a966b5bf" itemactionid="saf_a966b5bf_NoAction">
+
+                                    <div class="tab-label">
+                                        <img propertyid="imgSrc" src="./book_files/df1ddb38-9fb6-4fa4-9107-186cb4a9212f.svg" defaultvalue="image/mini-logo.svg">
+                                        <p propertyid="Name">أفراد</p>
+                                    </div>
+									<div class="drop-down-admin">
+                                     <img src="./book_files/drop-down.svg">
+                                     </div>
+                                </div><div class="swiper-slide DCItem" id="main" itemid="Corporate_30a04436" itemactionid="Corporate_30a04436_NoAction">
+
+                                    <div class="tab-label">
+                                        <img propertyid="imgSrc" src="./book_files/df996cc0-7776-41fe-bc41-2de6117a068a.svg" defaultvalue="image/mini-logo.svg">
+                                        <p propertyid="Name">الشركات</p>
+                                    </div>
+									<div class="drop-down-admin">
+                                     <img src="./book_files/drop-down.svg">
+                                     </div>
+                                </div><div class="swiper-slide DCItem" id="main" itemid="SMEs_f96fda71" itemactionid="SMEs_f96fda71_NoAction">
+
+                                    <div class="tab-label">
+                                        <img propertyid="imgSrc" src="./book_files/8dec0e4f-e63a-4eac-9eed-bffc6fb0af49.svg" defaultvalue="image/mini-logo.svg">
+                                        <p propertyid="Name">المشروعات الصغيرة</p>
+                                    </div>
+									<div class="drop-down-admin">
+                                     <img src="./book_files/drop-down.svg">
+                                     </div>
+                                </div><div class="swiper-slide DCItem" id="main" itemid="Platinum_5712100c" itemactionid="Platinum_5712100c_NoAction">
+
+                                    <div class="tab-label">
+                                        <img propertyid="imgSrc" src="./book_files/323eaabe-1236-44c6-b707-e8d76ded8d66.svg" defaultvalue="image/mini-logo.svg">
+                                        <p propertyid="Name">بلاتينم</p>
+                                    </div>
+									<div class="drop-down-admin">
+                                     <img src="./book_files/drop-down.svg">
+                                     </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next arrow-next"></div>
+                        <div class="swiper-button-prev arrow-prev"></div>
+                    </div>
+						<ul collapsable="" placeholderid="VerticalSection2" class="panel " id="VerticalSection2">
+    <li class="lvl-3 DCItem" itemid="AboutUs_08eb8594" itemactionid="AboutUs_08eb8594_OpenURL"><a propertyid="Name">عن البنك</a></li><li class="lvl-3 DCItem" itemid="Sustainability_159ed7e8" itemactionid="Sustainability_159ed7e8_OpenContent_NBE_Sustainability"><a propertyid="Name">الإستدامة</a></li><li class="lvl-3 DCItem" itemid="ExchangeRate_3e9ddbd7" itemactionid="ExchangeRate_3e9ddbd7_OpenURL"><a propertyid="Name">سعر الصرف و تحويل العملات</a></li><li class="lvl-3 DCItem" itemid="BecomeaCustomer_4604075e" itemactionid="BecomeaCustomer_4604075e_OpenURL"><a propertyid="Name">افتح حسابك وانت في مكانك</a></li><li class="lvl-3 DCItem" itemid="SelfServices_9ea7b565" itemactionid="SelfServices_9ea7b565_OpenURL"><a propertyid="Name">الخدمات الذاتية</a></li><li class="lvl-3 DCItem" itemid="ApplyforPOSmachine_e59fddaf" itemactionid="ApplyforPOSmachine_e59fddaf_OpenURL"><a propertyid="Name">تمويل التجار أصحاب نقاط البيع الالكترونية (POS)</a></li><li class="lvl-3 DCItem" itemid="MobileBillPayments_10dfb08f" itemactionid="MobileBillPayments_10dfb08f_OpenURL"><a propertyid="Name">فواتير المحمول</a></li><li class="lvl-3 DCItem" itemid="Facebook_2d16bc4a" itemactionid="Facebook_2d16bc4a_OpenURL"><a propertyid="Name"><img src="./book_files/0e350d70-0989-49c4-b8f2-70202afac133.svg" class="fr-dii fr-draggable">&nbsp;فيسبوك</a></li><li class="lvl-3 DCItem" itemid="Twitter_bcbc811f" itemactionid="Twitter_bcbc811f_OpenURL"><a propertyid="Name"><img src="./book_files/a6290c37-5522-4d7e-ae0a-6c0b389d1b10.png" class="fr-dii fr-draggable">&nbsp;انستجرام</a></li><li class="lvl-3 DCItem" itemid="WhatsApp_db467145" itemactionid="WhatsApp_db467145_OpenURL_https://wa.me/+20219623"><a propertyid="Name"><img src="./book_files/a12b7283-2a47-44ee-8462-9163ace1e703.png" class="fr-dii fr-draggable">&nbsp;واتس اب</a></li><li class="lvl-3 DCItem" itemid="Youtube_4e5799db" itemactionid="Youtube_4e5799db_OpenURL_https://www.youtube.com/user/NationalBankofEgypt"><a propertyid="Name"><img src="./book_files/a1c9dced-f31c-4274-ac32-644a560b0d0a.svg" class="fr-dii fr-draggable">&nbsp;يوتيوب</a></li><li class="lvl-3 DCItem" itemid="AlAhlyNetLogin_21dd8976" itemactionid="AlAhlyNetLogin_21dd8976_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;50&quot;%2C&quot;ProductID&quot;%3A&quot;Ahly%20Net%20-%20Personal_16537&quot;%7D"><a propertyid="Name">الأهلي نت</a></li><li class="lvl-3 DCItem" itemid="AlAhlyPointsLogin_a019f690" itemactionid="AlAhlyPointsLogin_a019f690_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ahlypoints&quot;%7D"><a propertyid="Name">الأهلى بوينتس</a></li><li class="lvl-3 DCItem" itemid="ATM-BranchLocator_a1b34203" itemactionid="ATM-BranchLocator_a1b34203_OpenURL"><a propertyid="Name">الفروع وماكينات الصرف الآلي</a></li><li class="lvl-3 DCItem" itemid="AhlyDiscountandInstallmentOffers_46d357f6" itemactionid="AhlyDiscountandInstallmentOffers_46d357f6_OpenURL"><a propertyid="Name">عروض التقسيط و الخصومات</a></li><li class="lvl-3 DCItem" itemid="CallUsLocally:19623_bcb0602f" itemactionid="CallUsLocally:19623_bcb0602f_NoAction"><a propertyid="Name">اتصل بنا محليا: 19623 - دوليا: 0020219623</a></li><li class="lvl-3 ShowItemAction_En DCItem" itemid="Cardslimits_1e940487" itemactionid="Cardslimits_1e940487_OpenURL_https://www.nbe.com.eg/AssetsManager/10dd2dd3-a252-40e3-b2aa-13a33ecd7be4.pdf"><a propertyid="Name">محددات البطاقات</a></li><li class="lvl-3 ShowItemAction_Ar DCItem" itemid="CardsLimits_f9cdc54f" itemactionid="CardsLimits_f9cdc54f_OpenURL_https://www.nbe.com.eg/AssetsManager/8c5a5a3b-3416-4fb1-a551-1ea0991d7f4b.pdf"><a propertyid="Name">محددات البطاقات</a></li><li class="lvl-3 DCItem" itemid="HowtoActivateCards_b6bf4ffe" itemactionid="HowtoActivateCards_b6bf4ffe_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;HowToActivateCredit_Cards&quot;%7D"><a propertyid="Name">كيفية تفعيل البطاقات</a></li><li class="lvl-3 DCItem" itemid="ConsumerProtection_c1fe09ca" itemactionid="ConsumerProtection_c1fe09ca_OpenURL_https://www.nbe.com.eg/AssetsManager/a11e0c3c-5851-4793-bbd0-98b50c4201ea.pdf"><a propertyid="Name">حماية حقوق العملاء</a></li>
+</ul>
+								<ul collapsable="" placeholderid="VerticalSection3" class="panel " id="VerticalSection3">
+    <li class="lvl-3 DCItem" itemid="vcxv_85f724b3" itemactionid="vcxv_85f724b3_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CurrentAccountsID&quot;%7D"><a propertyid="Name">الحسابات الجارية</a></li><li class="lvl-3 DCItem" itemid="شسيبيس_59c20db4" itemactionid="شسيبيس_59c20db4_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;Saving%20Accounts&quot;%7D"><a propertyid="Name">حسابات التوفير- عملة محلية</a></li><li class="lvl-3 DCItem" itemid="SavingAccounts_605d854b" itemactionid="SavingAccounts_605d854b_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;SavingForeignAccountsID&quot;%7D"><a propertyid="Name">حسابات التوفير- عملة أجنبية</a></li><li class="lvl-3 DCItem" itemid="ForeignCurrency_27e1d925" itemactionid="ForeignCurrency_27e1d925_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ForigenCertificatesID&quot;%7D"><a propertyid="Name">الشهادات الاجنبية</a></li><li class="lvl-3 DCItem" itemid="LocalCurrencyCertificates_b15342e9" itemactionid="LocalCurrencyCertificates_b15342e9_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;LocalCertificatesID&quot;%7D"><a propertyid="Name">الشهادات المحلية</a></li><li class="accordin-menu DCItem" itemid="BeladyCertificates_d919b186" itemactionid="BeladyCertificates_d919b186_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;BeladyCertificateID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">شهادات بلادي</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li itemid="Belady1YearCertificates_6d97c0da" itemactionid="Belady1YearCertificates_6d97c0da_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyoneyear&quot;%7D" class="DCItem">
+        <div class="selection dark last-selection active" propertyid="Name">
+            <a class="nested2-accordion">شهادات بلادي سنة</a>
+            <span class="trigger trigger2">^</span>
+        </div>
+		<ul placeholderid="SubItems" class="nested_list" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="1_57b017bb" itemactionid="1_57b017bb_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyoneyear&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20USD_16615&quot;%7D"><a propertyid="Name">بلادى بالدولار أمريكي</a></li><li class="lvl-3 DCItem" itemid="2_b460eabb" itemactionid="2_b460eabb_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyoneyear&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Euro_16616&quot;%7D"><a propertyid="Name">بلادى باليورو</a></li><li class="lvl-3 DCItem" itemid="3_de1ad15a" itemactionid="3_de1ad15a_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyoneyear&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Sterling%20Pound_16619&quot;%7D"><a propertyid="Name">بلادى بالجنيه الاسترليني</a></li><li class="lvl-3 DCItem" itemid="4_782cd55f" itemactionid="4_782cd55f_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyoneyear&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Australian%20Dollar_16612&quot;%7D"><a propertyid="Name">بلادى بالدولار الأسترالي</a></li> 
+		  </ul> 
+    </li><li itemid="Belady3YearsCertificates_b7aa260d" itemactionid="Belady3YearsCertificates_b7aa260d_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladythreeyears&quot;%7D" class="DCItem">
+        <div class="selection dark last-selection active" propertyid="Name">
+            <a class="nested2-accordion">شهادات بلادي 3 سنوات</a>
+            <span class="trigger trigger2">^</span>
+        </div>
+		<ul placeholderid="SubItems" class="nested_list" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="1_8e7ebc8b" itemactionid="1_8e7ebc8b_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladythreeyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20USD_16614&quot;%7D"><a propertyid="Name">بلادى بالدولار أمريكي</a></li><li class="lvl-3 DCItem" itemid="2_71edaa5b" itemactionid="2_71edaa5b_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladythreeyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Euro_16610&quot;%7D"><a propertyid="Name">بلادى باليورو</a></li><li class="lvl-3 DCItem" itemid="3_2538c30a" itemactionid="3_2538c30a_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladythreeyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Sterling%20Pound_16620&quot;%7D"><a propertyid="Name">بلادى بالجنيه الاسترليني</a></li><li class="lvl-3 DCItem" itemid="4_acb66964" itemactionid="4_acb66964_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladythreeyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Australian%20Dollar_16617&quot;%7D"><a propertyid="Name">بلادى بالدولار الأسترالي</a></li> 
+		  </ul> 
+    </li><li itemid="Belady5YearsCertificates_d9cfa449" itemactionid="Belady5YearsCertificates_d9cfa449_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyfiveyears&quot;%7D" class="DCItem">
+        <div class="selection dark last-selection active" propertyid="Name">
+            <a class="nested2-accordion">شهادات بلادي 5 سنوات</a>
+            <span class="trigger trigger2">^</span>
+        </div>
+		<ul placeholderid="SubItems" class="nested_list" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="1_edc476ad" itemactionid="1_edc476ad_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyfiveyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20USD_16613&quot;%7D"><a propertyid="Name">بلادى بالدولار أمريكي</a></li><li class="lvl-3 DCItem" itemid="2_a77225ee" itemactionid="2_a77225ee_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyfiveyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Euro_16611&quot;%7D"><a propertyid="Name">بلادى باليورو</a></li><li class="lvl-3 DCItem" itemid="3_d87bd4d1" itemactionid="3_d87bd4d1_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyfiveyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20Sterling%20Pound_16621&quot;%7D"><a propertyid="Name">بلادى بالجنيه الاسترليني</a></li><li class="lvl-3 DCItem" itemid="4_031dcc91" itemactionid="4_031dcc91_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;beladyfiveyears&quot;%2C&quot;ProductID&quot;%3A&quot;Belady%20ِAustralian%20Dollar_16618&quot;%7D"><a propertyid="Name">بلادى بالدولار الأسترالي</a></li> 
+		  </ul> 
+    </li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="InvestmentCertificates_3908f864" itemactionid="InvestmentCertificates_3908f864_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestmentCertificateCatID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">شهادات أستثمار</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="InvestmentCertificateGroupA_d14eecc4" itemactionid="InvestmentCertificateGroupA_d14eecc4_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestmentCertificateCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Certificate%20“A”_6349&quot;%7D"><a propertyid="Name">شهادة المجموعة ' أ ' ذات العائد المجمع</a></li><li class="lvl-3 DCItem" itemid="InvestmentCertificateGroupB_6d182e99" itemactionid="InvestmentCertificateGroupB_6d182e99_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestmentCertificateCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Certificate%20“B”_6348&quot;%7D"><a propertyid="Name">شهادة المجموعة ' ب ' السنوية</a></li><li class="lvl-3 DCItem" itemid="InvestmentCertificateGroupB3Years_091afe79" itemactionid="InvestmentCertificateGroupB3Years_091afe79_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestmentCertificateCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Certificate%20“B”_6281&quot;%7D"><a propertyid="Name">شهادة المجموعة ' ب ' 3 سنوات&nbsp;</a></li><li class="lvl-3 DCItem" itemid="InvestmentCertificateGroupC_1ddc8734" itemactionid="InvestmentCertificateGroupC_1ddc8734_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestmentCertificateCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Group%20&#39;C&#39;%20Lottery%20Certificate_16562&quot;%7D"><a propertyid="Name">شهادات المجموعة ج ذات الجوائز</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="Deposits_5ee2d6d7" itemactionid="Deposits_5ee2d6d7_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;DepositsCatID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الودائع</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="DepositsInMaturity_ecf2d1b3" itemactionid="DepositsInMaturity_ecf2d1b3_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;LocalTimeDeposits&quot;%7D"><a propertyid="Name">الودائع - عملة محلية</a></li><li class="lvl-3 DCItem" itemid="Depositslongterm_51e89399" itemactionid="Depositslongterm_51e89399_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ForeignDeposits&quot;%7D"><a propertyid="Name">الودائع - عملات أجنبية</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="CreditCards_5e6ac659" itemactionid="CreditCards_5e6ac659_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">بطاقات الإئتمان</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="1_9f444169" itemactionid="1_9f444169_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;MasterCard%20Standard_6320&quot;%7D"><a propertyid="Name">ماستركارد استاندرد</a></li><li class="lvl-3 DCItem" itemid="2_e62749b0" itemactionid="2_e62749b0_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Visa%20Classic_6319&quot;%7D"><a propertyid="Name">فيزا كلاسيك</a></li><li class="lvl-3 DCItem" itemid="3_5208ba71" itemactionid="3_5208ba71_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;MasterCard%20Egyptair_16604&quot;%7D"><a propertyid="Name">ماستركارد مصر للطيران</a></li><li class="lvl-3 DCItem" itemid="4_aa63288c" itemactionid="4_aa63288c_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Visa%20Gold_6261&quot;%7D"><a propertyid="Name">فيزا جولد</a></li><li class="lvl-3 DCItem" itemid="5_3addddfd" itemactionid="5_3addddfd_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;MasterCard%20Titanium_16583&quot;%7D"><a propertyid="Name">ماستركارد تيتانيوم</a></li><li class="lvl-3 DCItem" itemid="UEFAChampionsLeagueMastercard_7d9d164f" itemactionid="UEFAChampionsLeagueMastercard_7d9d164f_OpenURL"><a propertyid="Name">ماستركارد UEFA Champions League</a></li><li class="lvl-3 DCItem" itemid="7_48f22424" itemactionid="7_48f22424_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Visa%20platinum_6321&quot;%7D"><a propertyid="Name">فيزا بلاتينية</a></li><li class="lvl-3 DCItem" itemid="8_f6f63e8d" itemactionid="8_f6f63e8d_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;MasterCard%20Platinum_6322&quot;%7D"><a propertyid="Name">ماستركارد بلاتينوم</a></li><li class="lvl-3 DCItem" itemid="MastercardWorld_3a23bb81" itemactionid="MastercardWorld_3a23bb81_OpenURL"><a propertyid="Name">ماستركارد وورلد</a></li><li class="lvl-3 DCItem" itemid="VisaSignature_23333c1a" itemactionid="VisaSignature_23333c1a_OpenURL"><a propertyid="Name">فيزا سيغنتشر</a></li><li class="lvl-3 DCItem" itemid="MastercardWorldElite_b8100249" itemactionid="MastercardWorldElite_b8100249_OpenURL"><a propertyid="Name">ماستركارد وورلد إيليت</a></li><li class="lvl-3 DCItem" itemid="VisaInfinite_4098fd45" itemactionid="VisaInfinite_4098fd45_OpenURL"><a propertyid="Name">فيزا انفينيت</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="DebitCards_594fb98b" itemactionid="DebitCards_594fb98b_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;DepitCardsID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">بطاقات الخصم</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="3_7221a1fe" itemactionid="3_7221a1fe_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;DepitCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Classic%20debit%20card_16625&quot;%7D"><a propertyid="Name">بطاقة الخصم المباشر الكلاسيكية</a></li><li class="lvl-3 DCItem" itemid="2_2e3d3e9c" itemactionid="2_2e3d3e9c_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;DepitCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Gold%20debit%20card_16622&quot;%7D"><a propertyid="Name">بطاقة الخصم المباشر الذهبية (فيزا - ماستركارد)</a></li><li class="lvl-3 DCItem" itemid="1_51ccd55d" itemactionid="1_51ccd55d_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;DepitCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;Platinum%20Debit%20Card_6262&quot;%7D"><a propertyid="Name">بطاقة الخصم المباشر البلاتينية (ماستر كارد)</a></li><li class="lvl-3 DCItem" itemid="VisaPlatinumDebitCard_90a46245" itemactionid="VisaPlatinumDebitCard_90a46245_OpenURL"><a propertyid="Name">بطاقة فيزا البلاتينية للخصم المباشر</a></li><li class="lvl-3 DCItem" itemid="(Meeza)DebitCard_02e0b2c0" itemactionid="(Meeza)DebitCard_02e0b2c0_OpenURL"><a propertyid="Name">بطاقة الخصم المباشر (ميزة)</a></li><li class="lvl-3 DCItem" itemid="MastercardWorld_2a6b48d8" itemactionid="MastercardWorld_2a6b48d8_OpenURL"><a propertyid="Name">ماستركارد وورلد</a></li><li class="lvl-3 DCItem" itemid="MastercardWorldElite_4021eed1" itemactionid="MastercardWorldElite_4021eed1_OpenURL"><a propertyid="Name">ماستركارد وورلد إيليت</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="PrepaidCards_7c73fb1c" itemactionid="PrepaidCards_7c73fb1c_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;PrepaidCardsID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">البطاقات المدفوعة مقدما</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="1_b0c072bd" itemactionid="1_b0c072bd_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;PrepaidCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;NBE%20&#39;%20Meeza&#39;%20Prepaid%20Card_16535&quot;%7D"><a propertyid="Name">بطاقة ميزة المدفوعة مقدما</a></li><li class="lvl-3 DCItem" itemid="2_87fe62d3" itemactionid="2_87fe62d3_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;PrepaidCardsID&quot;%2C&quot;ProductID&quot;%3A&quot;NBE%20Prepaid%20Card_6323&quot;%7D"><a propertyid="Name">بطاقة الدفع من البنك الأهلى المصري</a></li><li class="lvl-3 DCItem" itemid="UnifiedMeezaPrepaidCardforUniversityStudents_5d57fc0e" itemactionid="UnifiedMeezaPrepaidCardforUniversityStudents_5d57fc0e_OpenURL"><a propertyid="Name">بطاقة ميزة المدفوعة مقدمًا الموحدة للجامعات</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="PersonalCashLoansWithSalary/InstallmentTransfer_b8bf8ed0" itemactionid="PersonalCashLoansWithSalary/InstallmentTransfer_b8bf8ed0_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;SalaryOrInstallmentLoansCatID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">القروض بضمان تعهد جهة العمل بتحويل المرتب</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="1_03a8374f" itemactionid="1_03a8374f_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;SalaryOrInstallmentLoansCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Governmental%20%26%20Public%20Sector%20Employees_6234&quot;%7D"><a propertyid="Name">العاملين بالهيئات الحكومية و هيئات القطاع العام و الأعمال العام</a></li><li class="lvl-3 DCItem" itemid="2_3f0d0d63" itemactionid="2_3f0d0d63_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;SalaryOrInstallmentLoansCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Petroleum%20sector%20employees_6314&quot;%7D"><a propertyid="Name">العاملين بشركات قطاع البترول و الغاز والبتروكيماويات ضمن الهيئة العامة للبترول</a></li><li class="lvl-3 DCItem" itemid="3_c425bd6f" itemactionid="3_c425bd6f_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;SalaryOrInstallmentLoansCatID&quot;%2C&quot;ProductID&quot;%3A&quot;Private%20%26%20multinational%20sector%20employees%20listed%20in%20NBE_6315&quot;%7D"><a propertyid="Name">العاملين بالشركات المتعددة الجنسيات والشركات القابضة و المساهمة الخاصة المدرجة بالبنك</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="PersonalCashLoansWithoutSalary/InstallmentTransfer_564fe2ce" itemactionid="PersonalCashLoansWithoutSalary/InstallmentTransfer_564fe2ce_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;WithoutcompanyundertakingtotransfersalaryID&quot;%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">القروض بدون ضمان تعهد جهة العمل بتحويل المرتب</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="1_493c87bf" itemactionid="1_493c87bf_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;WithoutcompanyundertakingtotransfersalaryID&quot;%2C&quot;ProductID&quot;%3A&quot;Governmental%20%26%20Public%20Sector%20Employees_15463&quot;%7D"><a propertyid="Name">العاملين بالهيئات الحكومية و هيئات القطاع العام و الأعمال العام</a></li><li class="lvl-3 DCItem" itemid="2_755f7003" itemactionid="2_755f7003_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;WithoutcompanyundertakingtotransfersalaryID&quot;%2C&quot;ProductID&quot;%3A&quot;Petroleum%20sector%20employees_15466&quot;%7D"><a propertyid="Name">العاملين بشركات قطاع البترول و الغاز والبتروكيماويات ضمن الهيئة العامة للبترول</a></li><li class="lvl-3 DCItem" itemid="3_f452bdf7" itemactionid="3_f452bdf7_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;WithoutcompanyundertakingtotransfersalaryID&quot;%2C&quot;ProductID&quot;%3A&quot;Private%20%26%20Multinational%20companies%20Employees%20Listed%20in%20NBE_15465&quot;%7D"><a propertyid="Name">العاملين بالشركات المتعددة الجنسيات والشركات القابضة و المساهمة الخاصة المدرجة بالبنك</a></li><li class="lvl-3 DCItem" itemid="Forbankers_0a03b1f5" itemactionid="Forbankers_0a03b1f5_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;WithoutcompanyundertakingtotransfersalaryID&quot;%2C&quot;ProductID&quot;%3A&quot;For%20bankers_15464&quot;%7D"><a propertyid="Name">العاملين بالبنوك</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="Businessownersandself-employed_23f1aa70" itemactionid="Businessownersandself-employed_23f1aa70_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">القرض الشخصي النقدي لأصحاب الاعمال والمهن الحرة</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="Businessownersandself-employed_a20e323f" itemactionid="Businessownersandself-employed_a20e323f_OpenURL"><a propertyid="Name">أصحاب الاعمال والمهن الحرة</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="PersonalCashLoanForPensioners_e5e5f662" itemactionid="PersonalCashLoanForPensioners_e5e5f662_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">القرض الشخصي النقدي لأصحاب المعاشات</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="Pensioners_f99dd811" itemactionid="Pensioners_f99dd811_OpenURL"><a propertyid="Name">أصحاب المعاشات</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="PersonalCashLoanForEgyptianExpatriates_e85db4e9" itemactionid="PersonalCashLoanForEgyptianExpatriates_e85db4e9_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;Egyptianexpatriates&quot;%7D"><a propertyid="Name">القرض الشخصي للمصريين العاملين بالخارج</a></li><li class="accordin-menu DCItem" itemid="DigitalBanking_98013856" itemactionid="DigitalBanking_98013856_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الخدمات الإلكترونية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="AlAhlyNet-Retail_dcd09818" itemactionid="AlAhlyNet-Retail_dcd09818_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;50&quot;%2C&quot;ProductID&quot;%3A&quot;Al%20Ahly%20Net%20-%20Retail_16537&quot;%7D"><a propertyid="Name">الاهلي نت - للافراد</a></li><li class="lvl-3 DCItem" itemid="AlAhlyMobile_bb29c501" itemactionid="AlAhlyMobile_bb29c501_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;ElectronicServicesSMEs&quot;%2C&quot;ProductID&quot;%3A&quot;الاهلى موبايل_16641&quot;}"><a propertyid="Name">الاهلى موبايل</a></li><li class="lvl-3 DCItem" itemid="AlAhlyPhoneCash_15443f64" itemactionid="AlAhlyPhoneCash_15443f64_OpenURL"><a propertyid="Name">الأهلي فون كاش</a></li><li class="lvl-3 DCItem" itemid="AlAhlyE-Branch_9432ca2a" itemactionid="AlAhlyE-Branch_9432ca2a_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;50&quot;%2C&quot;ProductID&quot;%3A&quot;Al%20Ahly%20E-Branch_15505&quot;%7D"><a propertyid="Name">فروع الاهلي للخدمة الالكترونية</a></li><li class="lvl-3 DCItem" itemid="AlAhlyE-Shopping_110dd023" itemactionid="AlAhlyE-Shopping_110dd023_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li class="lvl-3 DCItem" itemid="BusBranch_1b272cb4" itemactionid="BusBranch_1b272cb4_OpenURL"><a propertyid="Name">الفرع المتنقل</a></li><li class="lvl-3 DCItem" itemid="AlAhlyWhatsapp_45e571e1" itemactionid="AlAhlyWhatsapp_45e571e1_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;50&quot;%2C&quot;ProductID&quot;%3A&quot;الأهلي%20واتساب_18720&quot;%7D"><a propertyid="Name">الأهلي واتساب</a></li><li class="lvl-3 DCItem" itemid="NBEChatbotService_66c8475b" itemactionid="NBEChatbotService_66c8475b_OpenURL"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="OtherServices_9b9fd15d" itemactionid="OtherServices_9b9fd15d_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%221b6ba6aa07%22%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الخدمات</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="Securities_fc831d33" itemactionid="Securities_fc831d33_OpenURL_/MultiArticle?inParams=%7B&quot;ArticleData&quot;%3A&quot;marketcomment%24multiarMC&quot;%7D"><a propertyid="Name">الأوراق المالية</a></li><li class="lvl-3 DCItem" itemid="Investortrustees_cd2c4e0f" itemactionid="Investortrustees_cd2c4e0f_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestorTrustees&quot;%7D"><a propertyid="Name">أمناء الأستثمار</a></li><li class="lvl-3 DCItem" itemid="ExpatriatesTransfers_c696a7f7" itemactionid="ExpatriatesTransfers_c696a7f7_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ExpatriatesTransfers&quot;%7D"><a propertyid="Name">التحويلات الخارجية</a></li><li class="lvl-3 DCItem" itemid="Bancassurance-MaashBokra_b263122a" itemactionid="Bancassurance-MaashBokra_b263122a_OpenURL"><a propertyid="Name">التأمين البنكي</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="AccountsServices_98beedfd" itemactionid="AccountsServices_98beedfd_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">خدمات الحسابات</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="ElectronicStatementsofAccounts_c6404264" itemactionid="ElectronicStatementsofAccounts_c6404264_OpenURL"><a propertyid="Name">خدمة الكشف الإلكتروني للحسابات</a></li><li class="lvl-3 DCItem" itemid="SweepingService_83f667d6" itemactionid="SweepingService_83f667d6_OpenURL"><a propertyid="Name">خدمة ال Sweeping</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="InstallmentOffers_eb528b07" itemactionid="InstallmentOffers_eb528b07_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;1Credit Cards Offers&quot;}"><a propertyid="Name">عروض التقسيط و الخصومات</a></li><li class="lvl-3 DCItem" itemid="AlAhlyMobile_15b180ce" itemactionid="AlAhlyMobile_15b180ce_OpenURL"><a propertyid="Name">الاهلى موبايل</a></li><li class="lvl-3 DCItem" itemid="Autoloan_0eed1186" itemactionid="Autoloan_0eed1186_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;NewAutoLoanID&quot;%7D"><a propertyid="Name">قرض السيارة</a></li><li class="lvl-3 DCItem" itemid="CBEInitiativeMortgage_663fb651" itemactionid="CBEInitiativeMortgage_663fb651_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;CBEsinitiativeID&quot;}"><a propertyid="Name">مبادرة البنك المركزي للتمويل العقاري</a></li><li class="lvl-3 DCItem" itemid="FeesAndCharges_f6b37d34" itemactionid="FeesAndCharges_f6b37d34_OpenURL"><a propertyid="Name">الرسوم والمصاريف</a></li>
+</ul>
+								<ul collapsable="" placeholderid="VerticalSection4" class="panel " id="VerticalSection4">
+    <li class="lvl-3 DCItem" itemid="CurrentAccounts_393dadfe" itemactionid="CurrentAccounts_393dadfe_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateAccounts&quot;%7D"><a propertyid="Name">حسابات جاريه</a></li><li class="lvl-3 DCItem" itemid="CorporateCards_8daa8b2f" itemactionid="CorporateCards_8daa8b2f_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;corporatecards&quot;}"><a propertyid="Name">بطاقات الشركات</a></li><li class="accordin-menu DCItem" itemid="ForeignCurrencyCertificates_ea1e580c" itemactionid="ForeignCurrencyCertificates_ea1e580c_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">شهادات بالعملات الأجنبية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="NewGoldenCertificate_14908b88" itemactionid="NewGoldenCertificate_14908b88_OpenURL"><a propertyid="Name">الشهاده الذهبية الجديدة</a></li><li class="lvl-3 DCItem" itemid="AhlMasrCertificate5years_aa7921a0" itemactionid="AhlMasrCertificate5years_aa7921a0_OpenURL"><a propertyid="Name">شهاده اهل مصر الدولارية 5 سنوات</a></li><li class="lvl-3 DCItem" itemid="AhlMasrCertificate7years_389b0b0f" itemactionid="AhlMasrCertificate7years_389b0b0f_OpenURL"><a propertyid="Name">شهادة أهل مصر الدولاريه 7 سنوات</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="LocalCurrencyCertificates_b0d191e6" itemactionid="LocalCurrencyCertificates_b0d191e6_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">شهادات بالعملة المحلية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="CorporateCertificate3Years_2abd9d6b" itemactionid="CorporateCertificate3Years_2abd9d6b_OpenURL"><a propertyid="Name">شهادة الشركات 3 سنوات</a></li><li class="lvl-3 DCItem" itemid="CorporateCertificate5Years_2a99518f" itemactionid="CorporateCertificate5Years_2a99518f_OpenURL"><a propertyid="Name">شهادة الشركات 5 سنوات</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="Deposits_bb9c9353" itemactionid="Deposits_bb9c9353_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الودائع</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="LongTermDepositswithFrequency_47aaf9e8" itemactionid="LongTermDepositswithFrequency_47aaf9e8_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateLocalTimeDeposits&quot;%7D"><a propertyid="Name">الودائع - عملة محلية</a></li><li class="lvl-3 DCItem" itemid="Depositsinmaturity_2a310c4a" itemactionid="Depositsinmaturity_2a310c4a_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateForeignTimeDeposits&quot;%7D"><a propertyid="Name">الودائع - عملات أجنبية</a></li><li class="lvl-3 DCItem" itemid="الودائعلأجلللشركاتبحدادنىمليونجم_c2537d2f" itemactionid="الودائعلأجلللشركاتبحدادنىمليونجم_c2537d2f_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;CorporateDeposits&quot;%2C&quot;ProductID&quot;%3A&quot;Corporate Time Deposits With Minimum 1 Million EGP_18697&quot;}"><a propertyid="Name">الودائع لأجل للشركات بحد ادنى مليون جم</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="DigitalBanking_298912aa" itemactionid="DigitalBanking_298912aa_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الخدمات الإلكترونية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="AlAhlyNet-Corporate_63ce46bd" itemactionid="AlAhlyNet-Corporate_63ce46bd_OpenURL"><a propertyid="Name">خدمة الاهلي نت - للشركات</a></li><li class="lvl-3 DCItem" itemid="AlAhlyE-Shopping_3b280b23" itemactionid="AlAhlyE-Shopping_3b280b23_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li class="lvl-3 DCItem" itemid="NBE-MerchantApplication_6b4c250c" itemactionid="NBE-MerchantApplication_6b4c250c_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;ElectronicServicesCorporate&quot;%2C&quot;ProductID&quot;%3A&quot;17681&quot;}"><a propertyid="Name">تطبيق قبول المدفوعات للتجار</a></li><li class="lvl-3 DCItem" itemid="AlAhlyMobile_bc584fec" itemactionid="AlAhlyMobile_bc584fec_OpenURL"><a propertyid="Name">الاهلى موبايل</a></li><li class="lvl-3 DCItem" itemid="AlAhlyWhatsapp_cad70658" itemactionid="AlAhlyWhatsapp_cad70658_OpenURL"><a propertyid="Name">الأهلي واتساب</a></li><li class="lvl-3 DCItem" itemid="NBEChatbotService_e0b61c9b" itemactionid="NBEChatbotService_e0b61c9b_OpenURL"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="CorporateBanking_dd5c7cbf" itemactionid="CorporateBanking_dd5c7cbf_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">تمويل الشركات</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="CorporateBankingandSyndicatedloans_afa96472" itemactionid="CorporateBankingandSyndicatedloans_afa96472_OpenURL"><a propertyid="Name">تمويل الشركات والقروض المشتركة</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="CorporateServices_c581c660" itemactionid="CorporateServices_c581c660_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">خدمات الشركات</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="Securities_ba31c599" itemactionid="Securities_ba31c599_OpenURL"><a propertyid="Name">الأوراق المالية</a></li><li class="lvl-3 DCItem" itemid="InvestorTrustees_9d183e50" itemactionid="InvestorTrustees_9d183e50_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestorTrusteesCorporate&quot;%7D"><a propertyid="Name">أمناء الأستثمار</a></li><li class="lvl-3 DCItem" itemid="E-CollectionofGov.Dues_8d20d24b" itemactionid="E-CollectionofGov.Dues_8d20d24b_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;74&quot;%2C&quot;ProductID&quot;%3A&quot;E-Collection%20of%20Gov.%20Dues_16541&quot;%7D"><a propertyid="Name">تحصيل مستحقات الحكومة الكترونياً</a></li><li class="lvl-3 DCItem" itemid="AlAhlyPayment&amp;CollectionServices_cb440faf" itemactionid="AlAhlyPayment&amp;CollectionServices_cb440faf_OpenURL"><a propertyid="Name">الأهلي للمدفوعات و المتحصلات</a></li><li class="lvl-3 DCItem" itemid="CorporateShareCapitalRegistration_545e520a" itemactionid="CorporateShareCapitalRegistration_545e520a_OpenURL"><a propertyid="Name">قيد أسهم رأسمال الشركات</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="ElAhlypayrollprogram_c484a21f" itemactionid="ElAhlypayrollprogram_c484a21f_OpenURL"><a propertyid="Name">برامج الاهلي للمرتبات</a></li><li class="lvl-3 DCItem" itemid="SalaryAdvance_9995d1ad" itemactionid="SalaryAdvance_9995d1ad_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;payrollservices&quot;%2C&quot;ProductID&quot;%3A&quot;16543&quot;%7D"><a propertyid="Name">خدمة الراتب المقدم</a></li><li class="lvl-3 DCItem" itemid="FeesAndCharges_f78f331a" itemactionid="FeesAndCharges_f78f331a_OpenURL"><a propertyid="Name">الرسوم والمصاريف</a></li>
+</ul>
+	<ul collapsable="" placeholderid="VerticalSection5" class="panel " id="VerticalSection5">
+    <li class="lvl-3 DCItem" itemid="SMECallCenter_61a599f3" itemactionid="SMECallCenter_61a599f3_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;SMEScallcenter&quot;%7D"><a propertyid="Name">مركز اتصالات SME</a></li><li class="lvl-3 DCItem" itemid="EconomicActivityFinancialInclusionAccount_39dde11c" itemactionid="EconomicActivityFinancialInclusionAccount_39dde11c_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;AccountsID&quot;%2C&quot;ProductID&quot;%3A&quot;Economic Activity Financial Inclusion Account_18708&quot;}"><a propertyid="Name">حساب الشمول المالي نشاط اقتصادي</a></li><li class="lvl-3 DCItem" itemid="Deposits_8dd9d94a" itemactionid="Deposits_8dd9d94a_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2286%22%7D"><a propertyid="Name">القطاع الصناعي</a></li><li class="lvl-3 DCItem" itemid="LocalCurrencyCertificates_772bcc8b" itemactionid="LocalCurrencyCertificates_772bcc8b_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2296e4ae5681%22%7D"><a propertyid="Name">القطاع الخدمي</a></li><li class="lvl-3 DCItem" itemid="ForeignCurrency_4d8e2b17" itemactionid="ForeignCurrency_4d8e2b17_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2289%22%7D"><a propertyid="Name">القطاع التجاري</a></li><li class="lvl-3 DCItem" itemid="InvestmentCertificates_64a23eb0" itemactionid="InvestmentCertificates_64a23eb0_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2287%22%7D"><a propertyid="Name">القطاع الزراعي</a></li><li class="accordin-menu DCItem" itemid="AlAhlyForNon-FinancialServices_dd6ff02c" itemactionid="AlAhlyForNon-FinancialServices_dd6ff02c_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الأهلي للخدمات الغير مالية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="BDSHubs_086ee364" itemactionid="BDSHubs_086ee364_OpenURL"><a propertyid="Name">مراكز تطوير الأعمال</a></li><li class="lvl-3 DCItem" itemid="Consulting_1ef1c09b" itemactionid="Consulting_1ef1c09b_OpenURL"><a propertyid="Name">استشارات</a></li><li class="lvl-3 DCItem" itemid="Mentoring&amp;Coaching_b99084e0" itemactionid="Mentoring&amp;Coaching_b99084e0_OpenURL"><a propertyid="Name">ارشادات و توجيهات</a></li><li class="lvl-3 DCItem" itemid="Trainings_871ee9ed" itemactionid="Trainings_871ee9ed_OpenURL"><a propertyid="Name">تدريبات</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="MediumUnits_62d03830" itemactionid="MediumUnits_62d03830_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ME Units&quot;}"><a propertyid="Name">وحدات المشروعات المتوسطة</a></li><li class="accordin-menu DCItem" itemid="SMEsServices_4948b600" itemactionid="SMEsServices_4948b600_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsBankingServicesID%22%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الخدمات المصرفية المشروعات الصغيرة والمتوسطة</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="Securities_0ec395d7" itemactionid="Securities_0ec395d7_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEs%22%7D"><a propertyid="Name">الحسابات&nbsp;</a></li><li class="lvl-3 DCItem" itemid="InvestorTrustees_c43b844c" itemactionid="InvestorTrustees_c43b844c_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsCertificate%22%7D"><a propertyid="Name">شهادات الإدخار</a></li><li class="lvl-3 DCItem" itemid="E-CollectionofGov.Dues_5189874f" itemactionid="E-CollectionofGov.Dues_5189874f_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsDeposits%22%7D"><a propertyid="Name">الودائع</a></li><li class="lvl-3 DCItem" itemid="AlAhlyPayment&amp;CollectionServices_03d27c04" itemactionid="AlAhlyPayment&amp;CollectionServices_03d27c04_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22ServicesSMEs%22%7D"><a propertyid="Name">الخدمات الأخرى</a></li><li class="lvl-3 DCItem" itemid="CorporateCards_4a3c09e5" itemactionid="CorporateCards_4a3c09e5_OpenURL"><a propertyid="Name">بطاقات الشركات</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="AlAhlyBusiness_fef3c5e7" itemactionid="AlAhlyBusiness_fef3c5e7_OpenURL">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">برامج تمويل الأهلي بيزنس</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="AlAhlyBusinessfinanceprogramsforservicesectors_cf8a7a2c" itemactionid="AlAhlyBusinessfinanceprogramsforservicesectors_cf8a7a2c_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;AlAhLyBusinessServiceSector&quot;%7D"><a propertyid="Name">برامج تمويل الأهلي بيزنس للقطاع الخدمي</a></li><li class="lvl-3 DCItem" itemid="AlAhlyBusinessfinanceprogramsfortheagriculturalsector_8276c42b" itemactionid="AlAhlyBusinessfinanceprogramsfortheagriculturalsector_8276c42b_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;AlAhlyBusinessAgriculture&quot;%7D"><a propertyid="Name">برامج تمويل الأهلي بيزنس للقطاع الزراعي</a></li><li class="lvl-3 DCItem" itemid="AlAhlyBusinessfinanceprogramsforindustrialsector_1667091d" itemactionid="AlAhlyBusinessfinanceprogramsforindustrialsector_1667091d_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;AlAhlyBusinessIndustrialSector&quot;%7D"><a propertyid="Name">برامج تمويل الأهلي بيزنس للقطاع الصناعي</a></li><li class="lvl-3 DCItem" itemid="AlAhlyBusinessfinanceprogramsforcommercialsector_42a8438e" itemactionid="AlAhlyBusinessfinanceprogramsforcommercialsector_42a8438e_OpenURL"><a propertyid="Name">تمويل برامج الأهلي بيزنس للقطاع التجاري</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="FinancingMicro-enterprises_93c69b90" itemactionid="FinancingMicro-enterprises_93c69b90_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;292&quot;%7D"><a propertyid="Name">تمويل المشروعات متناهية الصغر</a></li><li class="accordin-menu DCItem" itemid="DigitalBanking_b046c7b1" itemactionid="DigitalBanking_b046c7b1_NoAction">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الخدمات الإلكترونية</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="AlAhlyNet-SMEs_ce16992d" itemactionid="AlAhlyNet-SMEs_ce16992d_OpenURL"><a propertyid="Name">خدمة الاهلي نت - للشركات</a></li><li class="lvl-3 DCItem" itemid="AlAhlye-Shopping_0ea1e682" itemactionid="AlAhlye-Shopping_0ea1e682_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li class="lvl-3 DCItem" itemid="AlAhlye-Shopping_200bef5a" itemactionid="AlAhlye-Shopping_200bef5a_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;ElectronicServicesSMEs&quot;%2C&quot;ProductID&quot;%3A&quot;17681&quot;}"><a propertyid="Name">تطبيق قبول المدفوعات للتجار</a></li><li class="lvl-3 DCItem" itemid="AlAhlyMobile_ea5229a8" itemactionid="AlAhlyMobile_ea5229a8_OpenURL"><a propertyid="Name">الاهلى موبايل</a></li><li class="lvl-3 DCItem" itemid="AlAhlyWhatsapp_6af99e4e" itemactionid="AlAhlyWhatsapp_6af99e4e_OpenURL"><a propertyid="Name">الأهلي واتساب</a></li><li class="lvl-3 DCItem" itemid="NBEChatbotService_46df49ac" itemactionid="NBEChatbotService_46df49ac_OpenURL"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="FeesAndCharges_37572903" itemactionid="FeesAndCharges_37572903_OpenURL"><a propertyid="Name">الرسوم والمصاريف</a></li>
+</ul>
+
+	<ul collapsable="" placeholderid="VerticalSection6" class="panel " id="VerticalSection6">
+    <li class="accordin-menu DCItem" itemid="ExclusiveProductsandservices_f2280f0a" itemactionid="ExclusiveProductsandservices_f2280f0a_NoAction">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">نظرة عامة عن البلاتينم</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="ExclusiveProductsandservices_34fbe2b1" itemactionid="ExclusiveProductsandservices_34fbe2b1_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22About Al Ahly Platinum%22%7D"><a propertyid="Name">عن الأهلي البلاتينم</a></li><li class="lvl-3 DCItem" itemid="Non-FinancialServices_c8ef30f8" itemactionid="Non-FinancialServices_c8ef30f8_OpenURL"><a propertyid="Name">الخدمات غير المالية</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="LocalCurrency_0db88915" itemactionid="LocalCurrency_0db88915_NoAction">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">شرائح الأهلي بلاتينم</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 ShowItemAction_En DCItem" itemid="NBEPlatinum_81bf21c7" itemactionid="NBEPlatinum_81bf21c7_OpenURL"><a propertyid="Name">الأهلي بلاتينم</a></li><li class="lvl-3 ShowItemAction_En DCItem" itemid="NBEPlatinumPlus_9217ef7e" itemactionid="NBEPlatinumPlus_9217ef7e_OpenURL"><a propertyid="Name">الأهلي بلاتينم بلس</a></li><li class="lvl-3 ShowItemAction_En DCItem" itemid="NBEPlatinumElite_273b9e0a" itemactionid="NBEPlatinumElite_273b9e0a_OpenURL"><a propertyid="Name">الأهلي بلاتينم إيليت</a></li><li class="lvl-3 ShowItemAction_Ar DCItem" itemid="NBEPlatinum_95e626f2" itemactionid="NBEPlatinum_95e626f2_OpenURL"><a propertyid="Name">الأهلي بلاتينم</a></li><li class="lvl-3 ShowItemAction_Ar DCItem" itemid="NBEPlatinumPlus_962c4eaf" itemactionid="NBEPlatinumPlus_962c4eaf_OpenURL"><a propertyid="Name">الأهلي بلاتينم بلس</a></li><li class="lvl-3 ShowItemAction_Ar DCItem" itemid="NBEPlatinumElite_0bf1a2a2" itemactionid="NBEPlatinumElite_0bf1a2a2_OpenURL"><a propertyid="Name">الأهلي بلاتينم إيليت</a></li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="BeladyCertificates_7595f6c1" itemactionid="BeladyCertificates_7595f6c1_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumDeposits%22%7D">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الشهادات و الودائع</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="DepositsinMaturity_2db2cf4d" itemactionid="DepositsinMaturity_2db2cf4d_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;platinumlocaldeposits&quot;%7D"><a propertyid="Name">الودائع - عملة محلية</a></li><li class="lvl-3 DCItem" itemid="LongTermDeposits_18387bbd" itemactionid="LongTermDeposits_18387bbd_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;PlatinumForeignDeposits&quot;%7D"><a propertyid="Name">الودائع - عملات أجنبية</a></li><li class="lvl-3 DCItem" itemid="ForeignCurrencyCertificates_6fe344ba" itemactionid="ForeignCurrencyCertificates_6fe344ba_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinuMForeignCurrency1%22%7D"><a propertyid="Name">شهادات بالعملة الأجنبية</a></li><li class="lvl-3 DCItem" itemid="LocalCurrencyCertificates_fa521832" itemactionid="LocalCurrencyCertificates_fa521832_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumLocalCurrency%22%7D"><a propertyid="Name">شهادات بالعملة المحلية</a></li><li class="lvl-3 DCItem" itemid="InvestmentCertificates_03c0b488" itemactionid="InvestmentCertificates_03c0b488_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumInvestmentCertificates%22%7D"><a propertyid="Name">شهادات استثمار</a></li><li itemid="BeladyCertificates_b98d5186" itemactionid="BeladyCertificates_b98d5186_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Belady%20Platinum%22%7D" class="DCItem">
+        <div class="selection dark2 group-selection active" propertyid="Name">
+            <a class="nested3-accordion">شهادات بلادي</a>
+            <span class="trigger trigger3">^</span>
+        </div>
+  <ul placeholderid="SubItems" class="nested_list2" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="Belady1Year_93594d13" itemactionid="Belady1Year_93594d13_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Belady%201%20year%20Platinum%22%7D"><a propertyid="Name">بلادي سنة</a></li><li class="lvl-3 DCItem" itemid="Belady3Years_ea4f7264" itemactionid="Belady3Years_ea4f7264_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Belady%203%20years%20platinum%22%7D"><a propertyid="Name">بلادي 3 سنوات</a></li><li class="lvl-3 DCItem" itemid="Belady5Years_243a5b5b" itemactionid="Belady5Years_243a5b5b_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Belady%205%20years%20platinum%22%7D"><a propertyid="Name">بلادي 5 سنوات</a></li> 
+    </ul> 
+    </li>
+		  </ul>
+
+</li><li class="accordin-menu DCItem" itemid="Accounts&amp;Loans_0ea4b1e8" itemactionid="Accounts&amp;Loans_0ea4b1e8_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;Platinum accounts and loans&quot;}">
+        <div class="selection nested2">
+            <a class=" nested-accordion" propertyid="Name">الحسابات والقروض</a>
+            <span class="trigger trigger1">^</span>
+        </div>
+		<ul placeholderid="SubItems" id="SubItems">
+         <li class="lvl-3 DCItem" itemid="CurrentAccounts_84479f6b" itemactionid="CurrentAccounts_84479f6b_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumCurrentAccount%22%7D"><a propertyid="Name">الحسابات الجارية</a></li><li class="lvl-3 DCItem" itemid="EscrowAccount_cd76b1ce" itemactionid="EscrowAccount_cd76b1ce_OpenURL"><a propertyid="Name">الحساب الوسيط</a></li><li class="lvl-3 DCItem" itemid="AlAhlyWhatsapp_6502c7a0" itemactionid="AlAhlyWhatsapp_6502c7a0_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;50&quot;%2C&quot;ProductID&quot;%3A&quot;الأهلي%20واتساب_18720&quot;%7D"><a propertyid="Name">الأهلي واتساب</a></li><li itemid="SavingAccounts_dc473fc0" itemactionid="SavingAccounts_dc473fc0_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumSavingAccounts%22%7D" class="DCItem">
+        <div class="selection dark2 group-selection active" propertyid="Name">
+            <a class="nested3-accordion">حسابات التوفير</a>
+            <span class="trigger trigger3">^</span>
+        </div>
+  <ul placeholderid="SubItems" class="nested_list2" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="SavingAccount-LocalCurrency_92f30ae2" itemactionid="SavingAccount-LocalCurrency_92f30ae2_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumSavingLocalCurrency%22%7D"><a propertyid="Name">عملة محلية</a></li><li class="lvl-3 DCItem" itemid="SavingAccount-ForeignCurrency_af79f1cf" itemactionid="SavingAccount-ForeignCurrency_af79f1cf_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumSavingForeignCurrency%22%7D"><a propertyid="Name">عملة أجنبية</a></li> 
+    </ul> 
+    </li><li itemid="PersonalLoan_72dd5c9d" itemactionid="PersonalLoan_72dd5c9d_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Platinum%20Personal%20Cash%20Loan%22%7D" class="DCItem">
+        <div class="selection dark2 group-selection active" propertyid="Name">
+            <a class="nested3-accordion">القروض الشخصية</a>
+            <span class="trigger trigger3">^</span>
+        </div>
+  <ul placeholderid="SubItems" class="nested_list2" id="SubItems"> 
+         <li class="lvl-3 DCItem" itemid="WithSalary/InstallmentTransfer_303d6e41" itemactionid="WithSalary/InstallmentTransfer_303d6e41_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22%20With%20Salary%2FInstallment%20Transfer%22%7D"><a propertyid="Name">بضمان تحويل المرتب / القسط</a></li><li class="lvl-3 DCItem" itemid="WithoutSalaryTransfer_c0103724" itemactionid="WithoutSalaryTransfer_c0103724_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Without%20Salary%20Transfer%22%7D"><a propertyid="Name">بدون ضمان تحويل المرتب / القسط</a></li> 
+    </ul> 
+    </li>
+		  </ul>
+
+</li><li class="lvl-3 DCItem" itemid="AlAhlyMobile_35cdd340" itemactionid="AlAhlyMobile_35cdd340_OpenURL"><a propertyid="Name">الاهلى موبايل</a></li><li class="lvl-3 DCItem" itemid="AutoLoan_e77d7bba" itemactionid="AutoLoan_e77d7bba_OpenURL"><a propertyid="Name">قروض السيارة</a></li><li class="lvl-3 DCItem" itemid="InstallmentOffers_678a70ba" itemactionid="InstallmentOffers_678a70ba_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;1Credit Cards Offers&quot;%7D"><a propertyid="Name">العروض</a></li><li class="lvl-3 DCItem" itemid="FeesAndCharges_35f5bcae" itemactionid="FeesAndCharges_35f5bcae_OpenURL"><a propertyid="Name">الرسوم والمصاريف</a></li>
+</ul>
+      
+                </div>
+</div>
+</div></div></div></div></div><div class="WidgetInstanceBody WidgetContainer" id="wgNBEDynamicWidget_NavBarInst_Container"><div id="wgNBEDynamicWidget_NavBarInst" class="WidgetInstance wgNBEDynamicWidget_NavBarInst undefined WidgetInstance_wgNBEDynamicWidget_NavBarInst_Class"><div id="GeneratedContent" forcontentid="NBE_NavBar_605f450e"><!-- Nab Bar Menu -->
+    <div class="nav-bar-menu-container">
+        <button onclick="SiteFunctions.OpenNavBarMenu();" class="nav-bar-menu-btn admin-hide">
+            <img src="./book_files/Nav-menu.svg">
+        </button>
+        <ul class="nav-bar-menu" placeholderid="VerticalSection1" id="VerticalSection1">
+            <li propertyid="Name" class="navbar-label DCItem ActiveDCItem" itemid="Homepage_453db305" itemactionid="Homepage_453db305_OpenURL_/Home">
+        <div data-label="الصفحة الرئيسية">
+            <label>الصفحة الرئيسية</label>
+        </div>
+    </li><li propertyid="Name" class="navbar-label DCItem" itemid="AboutUs_a83e0904" itemactionid="AboutUs_a83e0904_OpenURL_/AboutUS">
+        <div data-label="عن البنك">
+            <label>عن البنك</label>
+        </div>
+    </li><li propertyid="Name" class="navbar-label DCItem" itemid="Sustainability_cbac5c1b" itemactionid="Sustainability_cbac5c1b_OpenContent_NBE_Sustainability">
+        <div data-label="الإستدامة">
+            <label>الإستدامة</label>
+        </div>
+    </li><li propertyid="Name" class="navbar-label DCItem" itemid="Careers_10c6d8de" itemactionid="Careers_10c6d8de_OpenURL_/HRApplications">
+        <div data-label="الوظائف">
+            <label>الوظائف</label>
+        </div>
+    </li><li propertyid="Name" class="navbar-label DCItem" itemid="ContactUs_c56ce0b2" itemactionid="ContactUs_c56ce0b2_OpenURL">
+        <div data-label="تواصل معنا">
+            <label>تواصل معنا</label>
+        </div>
+    </li>
+        </ul>
+    </div>
+    <!-- Nab Bar Menu --></div></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutChangeLanguage_Default_Container"><div id="wginsAppLayoutChangeLanguage_Default" class="WidgetInstance wginsAppLayoutChangeLanguage_Default undefined WidgetInstance_wginsAppLayoutChangeLanguage_Default_Class"><!-- Change Language -->  <div class="lang_career_container">      <div class="dropdown-menu">          <ul class="dropdown-content">              <li class="">                  <div>                      <img src="./book_files/ico-lang-ar.svg" alt="Ar Language" id="imgAppLayoutHeaderIconArabicLanguage">                  </div>              </li>              <li class="">                  <div>                      <img src="./book_files/ico-lang-en.svg" alt="En Language" id="imgAppLayoutHeaderIconEnglishLanguage">                  </div>              </li>          </ul>      </div>      <div class="career_mob">          <p id="MobileCareersTap" class="hidden-dek hidden-lab hidden-tab">الوظائف</p>      </div>  </div>  <!-- Change Language --></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutMobileLogo_Default_Container"><div id="wginsAppLayoutMobileLogo_Default" class="WidgetInstance wginsAppLayoutMobileLogo_Default undefined ZoneInstance_zninsAppLayoutHeaderNavbar_Default_Class"><div class="brand">      <div id="divAppLayoutMobileLogo">          <img src="./book_files/mini-logo(1).svg">      </div>  </div></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutSearch_Default_Container"><div id="wginsAppLayoutSearch_Default" class="WidgetInstance wginsAppLayoutSearch_Default undefined WidgetInstance_wginsAppLayoutSearch_Default_Class"><!-- Search Bar -->  <div class="search-bar-container">      <input type="text" name="search" id="txtAppLayoutSearch" class="input-search" placeholder="البحث" maxlength="100">      <button class="search-btn" id="btnAppLayoutSearch">          <img src="./book_files/ico-search.svg" alt="search icon">      </button>  </div>  <!-- Search Bar --></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutBackButton_Default_Container"><div id="wginsAppLayoutBackButton_Default" class="WidgetInstance wginsAppLayoutBackButton_Default undefined WidgetInstance_wginsAppLayoutBackButton_Default_Class"><div id="divAppLayoutBackBTN" class="back-btn-mobile HideElement">      <button onclick="window.history.go(-1)">          <img src="./book_files/back-arrow.svg">      </button>  </div></div></div></div></div>  </div><div class="ZoneInstanceContainer">  <div class="ZoneBody hidden-mob catagory-bar"><div id="zninsAppLayoutHeaderMainMenu_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutHeaderMainMenu_Default Zone_znAppLayoutHeaderMainMenu_Class section undefined"><div class="WidgetInstanceBody dek-4 lab-5 tab-4 WidgetContainer" id="wginsAppLayoutLogo_Default_Container"><div id="wginsAppLayoutLogo_Default" class="WidgetInstance wginsAppLayoutLogo_Default undefined WidgetInstance_wginsAppLayoutLogo_Default_Class"><!-- NBE logo -->  <div class="brand">      <div id="divAppLayoutHeaderLogo">          <span>              <img src="./book_files/NBE-logo.svg" class="img-full-width" alt="NBE logo">          </span>      </div>  </div>  <!-- NBE logo --></div></div><div class="WidgetInstanceBody dek-8 lab-7 tab-8 hidden-mob WidgetContainer" id="wgNBEDynamicWidget_DynamicMenuInst_Container"><div id="wgNBEDynamicWidget_DynamicMenuInst" class="WidgetInstance wgNBEDynamicWidget_DynamicMenuInst undefined WidgetInstance_wgNBEDynamicWidget_DynamicMenuInst_Class"><div id="GeneratedContent" forcontentid="NBEMainMenu"><!-- Mega Menu -->
+	<div class="category-menu">
+		<div placeholderid="MainMenuItems" id="MainMenuItems">
+			<div class="menu-item item-4 tab-3 stripped_gray_background DCItem" itemid="NBEMainMenuPersonal" itemactionid="NBEMainMenuPersonal_OpenSubMenu_MegaMenu_PersonalSubMenu_5e0f45fb">
+    <button>
+		<img propertyid="imgSrc" src="./book_files/df1ddb38-9fb6-4fa4-9107-186cb4a9212f.svg" alt="" defaultvalue="images/DefaultIcons/Header.png"> 
+        <label propertyid="Name" class="gold-txt-3">أفراد</label>
+	</button>
+ <div class="mega-menu for-item-4 animated fadeIn MenuSlidableElement" submenuid="MegaMenu_PersonalSubMenu_5e0f45fb" submenuforitemid="NBEMainMenuPersonal">
+    <div class="tab-12">
+        <ul placeholderid="VerticalSection1" class="tab-3" id="VerticalSection1">
+            <li class="megaMenuTheme_1 DCItem" itemid="Accounts_502b71e4" itemactionid="Accounts_502b71e4_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;AccountsID&quot;%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/9668bcc7-99f1-4eea-894e-721a5c1fce39.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الحسابات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="PersonalAccounts_75d5fbf1" itemactionid="PersonalAccounts_75d5fbf1_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;CurrentAccountsID&quot;}" class="DCItem"><a propertyid="Name">حسابات جارية</a></li><li itemid="SavingLocalAccounts_f5717afc" itemactionid="SavingLocalAccounts_f5717afc_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Saving Accounts%22%7D" class="DCItem"><a propertyid="Name">حسابات التوفير</a></li><li itemid="BecomeaCustomer_4c9dfa31" itemactionid="BecomeaCustomer_4c9dfa31_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;selfservices&quot;%2C&quot;ProductID&quot;%3A&quot;Become a Customer_18719&quot;}" class="DCItem"><a propertyid="Name">افتح حسابك وإنت في مكانك</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_a2e9fd53" itemactionid="More_a2e9fd53_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;AccountsID&quot;%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Certificates_c960a78d" itemactionid="Certificates_c960a78d_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CertificatesID%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/71ef8c55-a069-491f-959b-de8842b8701b.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">شهادات الادخار</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="LocalCurrency_c068c4ee" itemactionid="LocalCurrency_c068c4ee_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;LocalCertificatesID&quot;%7D" class="DCItem"><a propertyid="Name">عملة محلية</a></li><li itemid="ForeignCertificates_0eef43fe" itemactionid="ForeignCertificates_0eef43fe_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ForigenCertificatesID&quot;%7D" class="DCItem"><a propertyid="Name">عملة أجنبية</a></li><li itemid="BeladyCertificate_aa60bfae" itemactionid="BeladyCertificate_aa60bfae_OpenURL" class="DCItem"><a propertyid="Name">شهادات بلادي</a></li><li itemid="EgyptianCertificateAman_6c656ab7" itemactionid="EgyptianCertificateAman_6c656ab7_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22InvestmentCertificateCatID%22%7D" class="DCItem"><a propertyid="Name">شهادات الاستثمار</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_912794fa" itemactionid="More_912794fa_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CertificatesID%22%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection2" class="tab-3" id="VerticalSection2">
+            <li class="megaMenuTheme_1 DCItem" itemid="Cards_4ad19f49" itemactionid="Cards_4ad19f49_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CardsID%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/e325c746-fa5c-42f0-bc41-7f092a52bc52.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">البطاقات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="CreditCards_5f42278d" itemactionid="CreditCards_5f42278d_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CreditCardsID%22%7D" class="DCItem"><a propertyid="Name">بطاقات الإئتمان</a></li><li itemid="DebitCards_99529b9c" itemactionid="DebitCards_99529b9c_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22DepitCardsID%22%7D" class="DCItem"><a propertyid="Name">بطاقات الخصم المباشر</a></li><li itemid="PrepaidCards_ffa0f0fa" itemactionid="PrepaidCards_ffa0f0fa_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PrepaidCardsID%22%7D" class="DCItem"><a propertyid="Name">البطاقات المدفوعة مقدما</a></li><li class="ShowItemAction_Ar DCItem" itemid="CardsLimits_91d32ce9" itemactionid="CardsLimits_91d32ce9_OpenURL_https://www.nbe.com.eg/AssetsManager/8c5a5a3b-3416-4fb1-a551-1ea0991d7f4b.pdf"><a propertyid="Name">محددات البطاقات</a></li><li class="ShowItemAction_En DCItem" itemid="CardsLimits_f15ce38e" itemactionid="CardsLimits_f15ce38e_OpenURL_https://www.nbe.com.eg/AssetsManager/10dd2dd3-a252-40e3-b2aa-13a33ecd7be4.pdf"><a propertyid="Name">محددات البطاقات</a></li><li itemid="HowtoActivateCards_422f61e4" itemactionid="HowtoActivateCards_422f61e4_OpenURL" class="DCItem"><a propertyid="Name">كيفية تفعيل البطاقات</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_d91ef656" itemactionid="More_d91ef656_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CardsID%22%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Services_6ae7505c" itemactionid="Services_6ae7505c_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22LoanCatID%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/1a335706-44c6-4205-b247-1d9e4d46d0dc.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">القروض</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="Securities_18273479" itemactionid="Securities_18273479_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PersonalLoansCatID%22%7D" class="DCItem"><a propertyid="Name">القرض الشخصي النقدي</a></li><li itemid="InvestorTrustees_c57eeee7" itemactionid="InvestorTrustees_c57eeee7_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;NewAutoLoanID&quot;%7D" class="DCItem"><a propertyid="Name">قرض السيارة</a></li><li itemid="CBEInitiative-Mortgage_f81edf8d" itemactionid="CBEInitiative-Mortgage_f81edf8d_OpenURL" class="DCItem"><a propertyid="Name">مبادرة البنك المركزي المصري - التمويل العقاري</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_a364b854" itemactionid="More_a364b854_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22LoanCatID%22%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection3" class="tab-3" id="VerticalSection3">
+            <li class="megaMenuTheme_1 DCItem" itemid="TimeDeposits_f0cb761c" itemactionid="TimeDeposits_f0cb761c_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ab2c03d6-1517-44c9-89b7-33a02c6a3d3d.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الودائع</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="TimeDepositsInterestPaidatMaturity_b49a49d4" itemactionid="TimeDepositsInterestPaidatMaturity_b49a49d4_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;LocalTimeDeposits&quot;%7D" class="DCItem"><a propertyid="Name">الودائع - عملة محلية</a></li><li itemid="MultiFrequenciesTimeDeposits_50b253a1" itemactionid="MultiFrequenciesTimeDeposits_50b253a1_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ForeignDeposits&quot;%7D" class="DCItem"><a propertyid="Name">الودائع - عملات أجنبية</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_3784c4b8" itemactionid="More_3784c4b8_OpenURL"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Services_b1436897" itemactionid="Services_b1436897_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%221b6ba6aa07%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/c1f4db6a-3336-44a6-acb5-fb41ad762dad.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="Securities_51c62d69" itemactionid="Securities_51c62d69_OpenURL" class="DCItem"><a propertyid="Name">الأوراق المالية</a></li><li itemid="InvestorTrustees_88b26593" itemactionid="InvestorTrustees_88b26593_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestorTrustees&quot;%7D" class="DCItem"><a propertyid="Name">أمناء الأستثمار</a></li><li itemid="ExpatriatesTransfers_3e29f060" itemactionid="ExpatriatesTransfers_3e29f060_OpenURL" class="DCItem"><a propertyid="Name">التحويلات الخارجية</a></li><li itemid="Bancassurance-MaashBokra_4f3d7650" itemactionid="Bancassurance-MaashBokra_4f3d7650_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;Bancassurance&quot;%7D" class="DCItem"><a propertyid="Name">التأمين البنكي</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_faba25cc" itemactionid="More_faba25cc_OpenURL"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+		<ul placeholderid="VerticalSection4" class="tab-3" id="VerticalSection4">
+            <li class="megaMenuTheme_1 DCItem" itemid="DigitalBanking_3623eacb" itemactionid="DigitalBanking_3623eacb_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/189a7f8f-8f5b-420e-bd8a-ed7426a1b7f4.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات الالكترونية</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AlAhlyNet–Retail_693f8235" itemactionid="AlAhlyNet–Retail_693f8235_OpenURL" class="DCItem"><a propertyid="Name">الاهلي نت – افراد</a></li><li itemid="AlAhlyMobile_c6954bd6" itemactionid="AlAhlyMobile_c6954bd6_OpenURL" class="DCItem"><a propertyid="Name">الاهلى موبايل</a></li><li itemid="AlAhlyPhoneCash_cfc56d49" itemactionid="AlAhlyPhoneCash_cfc56d49_OpenURL" class="DCItem"><a propertyid="Name">الأهلي فون كاش</a></li><li itemid="AlAhlye-Branch_ec914866" itemactionid="AlAhlye-Branch_ec914866_OpenURL" class="DCItem"><a propertyid="Name">فروع الخدمة الالكترونية</a></li><li itemid="AlAhlye-Shopping_eb40291c" itemactionid="AlAhlye-Shopping_eb40291c_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}" class="DCItem"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li itemid="BusBranch_c64deaf2" itemactionid="BusBranch_c64deaf2_OpenURL" class="DCItem"><a propertyid="Name">الفرع المتنقل</a></li><li itemid="AlAhlyWhatsapp_5b010716" itemactionid="AlAhlyWhatsapp_5b010716_OpenURL" class="DCItem"><a propertyid="Name">الأهلي واتساب</a></li><li itemid="NBEChatbotService_2f727531" itemactionid="NBEChatbotService_2f727531_OpenURL" class="DCItem"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="E-StatementOfAccountService_d0bae9f0" itemactionid="E-StatementOfAccountService_d0bae9f0_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;287&quot;}">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/9668bcc7-99f1-4eea-894e-721a5c1fce39.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">خدمات الحسابات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="ElectronicAccountsStatementsServices_968185be" itemactionid="ElectronicAccountsStatementsServices_968185be_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;287&quot;%2C&quot;ProductID&quot;%3A&quot;18711&quot;}" class="DCItem"><a propertyid="Name">خدمة الكشف الإلكتروني للحسابات</a></li><li itemid="SweepingService_5fe5cbab" itemactionid="SweepingService_5fe5cbab_OpenURL" class="DCItem"><a propertyid="Name">خدمة ال sweeping</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+    </div>
+</div> </div><div class="menu-item item-4 tab-3 stripped_gray_background DCItem" itemid="NBEMainMenuCorperate" itemactionid="NBEMainMenuCorperate_OpenSubMenu_MegaMenu_CorprateSubMenu_d496406a">
+    <button>
+		<img propertyid="imgSrc" src="./book_files/df996cc0-7776-41fe-bc41-2de6117a068a.svg" alt="" defaultvalue="images/DefaultIcons/Header.png"> 
+        <label propertyid="Name" class="gold-txt-3">شركات</label>
+	</button>
+ <div class="mega-menu for-item-4 animated fadeIn MenuSlidableElement" submenuid="MegaMenu_CorprateSubMenu_d496406a" submenuforitemid="NBEMainMenuCorperate">
+    <div class="tab-12">
+        <ul placeholderid="VerticalSection1" class="tab-3" id="VerticalSection1">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item3_9639c638" itemactionid="Item3_9639c638_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;CorporateAccountsAndCards&quot;}">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/9668bcc7-99f1-4eea-894e-721a5c1fce39.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الحسابات &nbsp;و البطاقات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="CurrentAccount-ForeignCurrency_5d7faea0" itemactionid="CurrentAccount-ForeignCurrency_5d7faea0_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateAccounts&quot;%7D" class="DCItem"><a propertyid="Name">حسابات جاريه</a></li><li itemid="CorporateCards_011d6176" itemactionid="CorporateCards_011d6176_OpenURL" class="DCItem"><a propertyid="Name">بطاقات الشركات</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_466e7818" itemactionid="More_466e7818_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CorporateAccounts%22%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Item2_62acae2a" itemactionid="Item2_62acae2a_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateCertificates&quot;%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/71ef8c55-a069-491f-959b-de8842b8701b.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">شهادات الادخار</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="SubItem2_034551bd" itemactionid="SubItem2_034551bd_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateLocalCurrency&quot;%7D" class="DCItem"><a propertyid="Name">عملة محلية</a></li><li itemid="SubItem1_6997c832" itemactionid="SubItem1_6997c832_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateForeignCurrency&quot;%7D" class="DCItem"><a propertyid="Name">عملة أجنبية</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_f1bae800" itemactionid="More_f1bae800_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateCertificates&quot;%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection2" class="tab-3" id="VerticalSection2">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item4_fc854f1a" itemactionid="Item4_fc854f1a_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Corporate%20Banking%20and%20Syndicated%20Loans%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/43c8f770-6093-40a8-a75f-2cf320097fc0.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">تمويل الشركات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="CorporateBankingandSyndicatedloans_1b5aaae8" itemactionid="CorporateBankingandSyndicatedloans_1b5aaae8_OpenURL" class="DCItem"><a propertyid="Name"> تمويل الشركات والقروض المشتركة</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_7a7beae3" itemactionid="More_7a7beae3_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Corporate%20Banking%20and%20Syndicated%20Loans%22%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Item5_06da8368" itemactionid="Item5_06da8368_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;payrollservices&quot;%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ff1c0865-e385-462d-be3a-f4c1a8075f89.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">خدمات المرتبات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="SubItem1_1f8708d4" itemactionid="SubItem1_1f8708d4_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;payrollservices&quot;%2C&quot;ProductID&quot;%3A&quot;El%20Ahly%20payroll%20program_16542&quot;%7D" class="DCItem"><a propertyid="Name">برامج الاهلي للمرتبات</a></li><li itemid="SubItem2_6c2f8f48" itemactionid="SubItem2_6c2f8f48_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;payrollservices&quot;%2C&quot;ProductID&quot;%3A&quot;Salary%20Advance_16543&quot;%7D" class="DCItem"><a propertyid="Name">خدمة الراتب المقدم</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_f4ec442c" itemactionid="More_f4ec442c_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;payrollservices&quot;%7D"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection3" class="tab-3" id="VerticalSection3">
+            <li class="megaMenuTheme_1 DCItem" itemid="TimeDeposits_d12c5a0d" itemactionid="TimeDeposits_d12c5a0d_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ab2c03d6-1517-44c9-89b7-33a02c6a3d3d.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الودائع</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="TimeDepositsInterestPaidatMaturity_5ca65848" itemactionid="TimeDepositsInterestPaidatMaturity_5ca65848_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateLocalTimeDeposits&quot;%7D" class="DCItem"><a propertyid="Name">الودائع - عملة محلية</a></li><li itemid="MultiFrequenciesTimeDeposits_f0f2838b" itemactionid="MultiFrequenciesTimeDeposits_f0f2838b_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CorporateForeignTimeDeposits&quot;%7D" class="DCItem"><a propertyid="Name">الودائع - عملات أجنبية</a></li><li itemid="CorporateTimeDepositsWithMinimum1MillionEGP_24e3910a" itemactionid="CorporateTimeDepositsWithMinimum1MillionEGP_24e3910a_OpenURL" class="DCItem"><a propertyid="Name">الودائع لأجل للشركات بحد ادنى مليون جم</a></li>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Services_0f051271" itemactionid="Services_0f051271_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/c1f4db6a-3336-44a6-acb5-fb41ad762dad.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="Securities_eca6b646" itemactionid="Securities_eca6b646_OpenURL" class="DCItem"><a propertyid="Name">الأوراق المالية</a></li><li itemid="InvestorTrustees_89780674" itemactionid="InvestorTrustees_89780674_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;InvestorTrusteesCorporate&quot;%7D" class="DCItem"><a propertyid="Name">أمناء الأستثمار</a></li><li itemid="E-CollectionofGov.Dues_778e455e" itemactionid="E-CollectionofGov.Dues_778e455e_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;74&quot;%2C&quot;ProductID&quot;%3A&quot;تحصيل مستحقات الحكومة الكترونياً_16541&quot;}" class="DCItem"><a propertyid="Name">تحصيل مستحقات الحكومة الكترونياً</a></li><li itemid="AlAhlyPaymentandCollection_e212c5e6" itemactionid="AlAhlyPaymentandCollection_e212c5e6_OpenURL" class="DCItem"><a propertyid="Name">الأهلي للمدفوعات والمتحصلات</a></li><li itemid="CorporateShareCapitalRegistration_6796fda4" itemactionid="CorporateShareCapitalRegistration_6796fda4_OpenURL" class="DCItem"><a propertyid="Name">قيد أسهم رأسمال الشركات بنظام الإيداع المركزي</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+		<ul placeholderid="VerticalSection4" class="tab-3" id="VerticalSection4">
+            <li class="megaMenuTheme_1 DCItem" itemid="DigitalBanking_dce6ffce" itemactionid="DigitalBanking_dce6ffce_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ElectronicServicesCorporate&quot;%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/189a7f8f-8f5b-420e-bd8a-ed7426a1b7f4.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات الالكترونية</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AlAhlyNet-Corporate_24a4d8ab" itemactionid="AlAhlyNet-Corporate_24a4d8ab_OpenURL_/ProductDetails?inParams=%7B&quot;CategoryID&quot;%3A&quot;ElectronicServicesCorporate&quot;%2C&quot;ProductID&quot;%3A&quot;16536&quot;%7D" class="DCItem"><a propertyid="Name">خدمة الاهلي نت - للشركات</a></li><li itemid="AlAhlyMobile_0f2cc946" itemactionid="AlAhlyMobile_0f2cc946_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;ElectronicServicesCorporate&quot;%2C&quot;ProductID&quot;%3A&quot;Al Ahly Mobile - Corporate_18691&quot;}" class="DCItem"><a propertyid="Name">الاهلى موبايل</a></li><li itemid="AlAhlye-Shopping_7b4821e6" itemactionid="AlAhlye-Shopping_7b4821e6_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}" class="DCItem"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li itemid="NBE-MerchantApplication_26cd9878" itemactionid="NBE-MerchantApplication_26cd9878_OpenURL" class="DCItem"><a propertyid="Name">تطبيق قبول المدفوعات للتجار</a></li><li itemid="AlAhlyWhatsapp_428eba98" itemactionid="AlAhlyWhatsapp_428eba98_OpenURL" class="DCItem"><a propertyid="Name">الأهلي واتساب</a></li><li itemid="NBEChatbotService_82f80a9c" itemactionid="NBEChatbotService_82f80a9c_OpenURL" class="DCItem"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+    </div>
+</div> </div><div class="menu-item item-4 tab-3 stripped_gray_background DCItem" itemid="NBEMainMenuSMEs" itemactionid="NBEMainMenuSMEs_OpenSubMenu_MegaMenu_SMEsSubMenu_bc0248a2">
+    <button>
+		<img propertyid="imgSrc" src="./book_files/8dec0e4f-e63a-4eac-9eed-bffc6fb0af49.svg" alt="" defaultvalue="images/DefaultIcons/Header.png"> 
+        <label propertyid="Name" class="gold-txt-3"><span style="font-size: 14px; letter-spacing: -1px">المشروعات الصغيرة</span></label>
+	</button>
+ <div class="mega-menu for-item-4 animated fadeIn MenuSlidableElement" submenuid="MegaMenu_SMEsSubMenu_bc0248a2" submenuforitemid="NBEMainMenuSMEs">
+    <div class="tab-12">
+        <ul placeholderid="VerticalSection1" class="tab-3" id="VerticalSection1">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item1_7aac30cd" itemactionid="Item1_7aac30cd_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2286%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/dd869129-9565-462b-936f-846a2d4a1cbd.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">قطاع صناعي</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="Item2_1637033e" itemactionid="Item2_1637033e_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%2296e4ae5681%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/71ef8c55-a069-491f-959b-de8842b8701b.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">القطاع الخدمي</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="AgricultureSector_a7c693c8" itemactionid="AgricultureSector_a7c693c8_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/4c7dcab7-7802-4295-a234-e3766bd8fda0.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">القطاع الزراعي</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="CommercialSector_1feb8313" itemactionid="CommercialSector_1feb8313_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ab2c03d6-1517-44c9-89b7-33a02c6a3d3d.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">القطاع التجاري</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection2" class="tab-3" id="VerticalSection2">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item5_9e34ae41" itemactionid="Item5_9e34ae41_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22nonfinacial%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ff1c0865-e385-462d-be3a-f4c1a8075f89.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الاهلي للخدمات غير المالية</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="Nonfinancialservices_79c85b27" itemactionid="Nonfinancialservices_79c85b27_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%225e60612552%22%7D" class="DCItem"><a propertyid="Name">مراكز تطوير الأعمال</a></li><li itemid="Trainings-Consultancy_78787ef9" itemactionid="Trainings-Consultancy_78787ef9_OpenURL" class="DCItem"><a propertyid="Name">استشارات</a></li><li itemid="Mentoring_31acc781" itemactionid="Mentoring_31acc781_OpenURL" class="DCItem"><a propertyid="Name">توجية و ارشادات</a></li><li itemid="Consulting_bbcba761" itemactionid="Consulting_bbcba761_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;288&quot;}" class="DCItem"><a propertyid="Name">تدريبات</a></li>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="MEUnits_8b71a42f" itemactionid="MEUnits_8b71a42f_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/011c22f0-0bdd-4b95-8745-de3a2849970d.jpg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">وحدات المشروعات المتوسطة</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="AlAhlyBusiness_9c7afe75" itemactionid="AlAhlyBusiness_9c7afe75_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/3e76e4a1-57e2-44fa-9854-a03aa88dd8a2.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الأهلي بيزنس</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AlAhlyBusinessforIndustrialSector_a4d4cd11" itemactionid="AlAhlyBusinessforIndustrialSector_a4d4cd11_OpenURL" class="DCItem"><a propertyid="Name">تمويل القطاع الصناعي</a></li><li itemid="AlAhlyBusinessfinanceprogramsforcommercialsector_5be86bbc" itemactionid="AlAhlyBusinessfinanceprogramsforcommercialsector_5be86bbc_OpenURL" class="DCItem"><a propertyid="Name">تمويل القطاع التجاري</a></li><li itemid="AlAhlyBusinessfinanceprogramsforservicesectors_22d2965a" itemactionid="AlAhlyBusinessfinanceprogramsforservicesectors_22d2965a_OpenURL" class="DCItem"><a propertyid="Name">تمويل القطاع الخدمي</a></li><li itemid="AlAhlyBusinessfinanceprogramsfortheagriculturalsector_b6aa0d55" itemactionid="AlAhlyBusinessfinanceprogramsfortheagriculturalsector_b6aa0d55_OpenURL" class="DCItem"><a propertyid="Name">تمويل القطاع الزراعي</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection3" class="tab-3" id="VerticalSection3">
+            <li class="megaMenuTheme_1 DCItem" itemid="SMEsBankingServices_bf295b1c" itemactionid="SMEsBankingServices_bf295b1c_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/c1f4db6a-3336-44a6-acb5-fb41ad762dad.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات المصرفية المشروعات الصغيرة والمتوسطة</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="Accounts_3a0b230f" itemactionid="Accounts_3a0b230f_OpenURL" class="DCItem"><a propertyid="Name">الحسابات</a></li><li itemid="CorporateCards_812bfa98" itemactionid="CorporateCards_812bfa98_OpenURL" class="DCItem"><a propertyid="Name">بطاقات الشركات</a></li><li itemid="SavingCertificates_42733b0f" itemactionid="SavingCertificates_42733b0f_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsCertificate%22%7D" class="DCItem"><a propertyid="Name">شهادات الإدخار</a></li><li itemid="TimeDeposits_9de28c58" itemactionid="TimeDeposits_9de28c58_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsDeposits%22%7D" class="DCItem"><a propertyid="Name">الودائع</a></li><li itemid="OtherServices_5c00240b" itemactionid="OtherServices_5c00240b_OpenURL" class="DCItem"><a propertyid="Name">الخدمات الأخري</a></li><div class="megaMenuMoreBtn DCItem" itemid="More_8cec26f7" itemactionid="More_8cec26f7_OpenURL"><a propertyid="Name" target="_blank">المزيد</a></div>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="FinancingMicro-enterprises_3b262664" itemactionid="FinancingMicro-enterprises_3b262664_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;292&quot;%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/3e76e4a1-57e2-44fa-9854-a03aa88dd8a2.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">تمويل المشروعات متناهية الصغر</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+		<ul placeholderid="VerticalSection4" class="tab-3" id="VerticalSection4">
+            <li class="megaMenuTheme_1 DCItem" itemid="DigitalBanking_6e8db64c" itemactionid="DigitalBanking_6e8db64c_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/189a7f8f-8f5b-420e-bd8a-ed7426a1b7f4.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الخدمات الإلكترونية</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AlAhlyNet-SMEs_53b2c3e5" itemactionid="AlAhlyNet-SMEs_53b2c3e5_OpenURL" class="DCItem"><a propertyid="Name">خدمة الأهلي نت للشركات</a></li><li itemid="AlAhlyMobile_d6762e58" itemactionid="AlAhlyMobile_d6762e58_OpenURL_/ProductDetails?inParams={&quot;CategoryID&quot;%3A&quot;ElectronicServicesSMEs&quot;%2C&quot;ProductID&quot;%3A&quot;Al Ahly Mobile - SMEs_18692&quot;}" class="DCItem"><a propertyid="Name">الاهلى موبايل</a></li><li itemid="AlAhlye-Shopping_cbcf9d82" itemactionid="AlAhlye-Shopping_cbcf9d82_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;ecommerce&quot;}" class="DCItem"><a propertyid="Name">خدمة الأهلي للتسوق عبر الإنترنت</a></li><li itemid="NBE-Merchant6Application_29c119c2" itemactionid="NBE-Merchant6Application_29c119c2_OpenURL" class="DCItem"><a propertyid="Name">تطبيق قبول المدفوعات للتجار</a></li><li itemid="AlAhlyWhatsapp_141ad488" itemactionid="AlAhlyWhatsapp_141ad488_OpenURL" class="DCItem"><a propertyid="Name">الأهلي واتساب</a></li><li itemid="NBEChatbotService_161e6a5b" itemactionid="NBEChatbotService_161e6a5b_OpenURL" class="DCItem"><a propertyid="Name">خدمة المساعد الآلي التفاعلي NBE Chatbot</a></li>
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="SMEmarketinsight_5e84e639" itemactionid="SMEmarketinsight_5e84e639_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/3e76e4a1-57e2-44fa-9854-a03aa88dd8a2.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">SMEs في بنكنا</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li><li class="megaMenuTheme_1 DCItem" itemid="SMECallCenter_df5011e7" itemactionid="SMECallCenter_df5011e7_OpenURL">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/61f54a9b-a033-4737-b173-b0efbcb724e9.png" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">مركز اتصالات SME</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+    </div>
+</div> </div><div class="menu-item item-4 tab-3 stripped_gray_background DCItem" itemid="NBEMainMenuPlatinum" itemactionid="NBEMainMenuPlatinum_OpenSubMenu_MegaMenu_PlatinumSubMenu_a3e6f7aa">
+    <button>
+		<img propertyid="imgSrc" src="./book_files/323eaabe-1236-44c6-b707-e8d76ded8d66.svg" alt="" defaultvalue="images/DefaultIcons/Header.png"> 
+        <label propertyid="Name" class="gold-txt-3">بلاتينم</label>
+	</button>
+ <div class="mega-menu for-item-4 animated fadeIn MenuSlidableElement" submenuid="MegaMenu_PlatinumSubMenu_a3e6f7aa" submenuforitemid="NBEMainMenuPlatinum">
+    <div class="tab-12">
+        <ul placeholderid="VerticalSection1" class="tab-3" id="VerticalSection1">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item1_4dad5782" itemactionid="Item1_4dad5782_NoAction">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/9668bcc7-99f1-4eea-894e-721a5c1fce39.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">نظرة عامة عن البلاتينم</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AboutUs_d702e74d" itemactionid="AboutUs_d702e74d_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22About%20Al%20Ahly%20Platinum%22%7D" class="DCItem"><a propertyid="Name">عن الأهلي البلاتينم</a></li><li itemid="Non-FinancialServices_9836d39e" itemactionid="Non-FinancialServices_9836d39e_OpenURL" class="DCItem"><a propertyid="Name">الخدمات غير المالية</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection2" class="tab-3" id="VerticalSection2">
+            <li class="megaMenuTheme_1 DCItem" itemid="Item5_830ed06c" itemactionid="Item5_830ed06c_NoAction">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/bedad3b1-ddc3-4401-b018-0d5c535317da.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">شرائح الأهلي بلاتينم</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li class="ShowItemAction_En DCItem" itemid="NBEPlatinum_2d690a4d" itemactionid="NBEPlatinum_2d690a4d_OpenURL_https://www.nbe.com.eg/NBEPlatinum/AlAhlyPlatinum.aspx?lang=EN"><a propertyid="Name">الأهلي بلاتينم</a></li><li class="ShowItemAction_En DCItem" itemid="NBEPlatinumPlus_b6096b7c" itemactionid="NBEPlatinumPlus_b6096b7c_OpenURL_https://www.nbe.com.eg/NBEPlatinum/PlatinumPlus.aspx?lang=EN"><a propertyid="Name">الأهلي بلاتينم بلس</a></li><li class="ShowItemAction_En DCItem" itemid="NBEPlatinumElite_90c38526" itemactionid="NBEPlatinumElite_90c38526_OpenURL_https://www.nbe.com.eg/NBEPlatinum/PlatinumElite.aspx?lang=EN"><a propertyid="Name">الأهلي بلاتينم إيليت</a></li><li class="ShowItemAction_Ar DCItem" itemid="NBEPlatinum_eb6daed8" itemactionid="NBEPlatinum_eb6daed8_OpenURL"><a propertyid="Name">الأهلي بلاتينم</a></li><li class="ShowItemAction_Ar DCItem" itemid="NBePlatinumPlus_332f2c4d" itemactionid="NBePlatinumPlus_332f2c4d_OpenURL"><a propertyid="Name">الأهلي بلاتينم بلس</a></li><li class="ShowItemAction_Ar DCItem" itemid="NBEPlatinumElite_2ff1dec2" itemactionid="NBEPlatinumElite_2ff1dec2_OpenURL"><a propertyid="Name">الأهلي بلاتينم إيليت</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+        <ul placeholderid="VerticalSection3" class="tab-3" id="VerticalSection3">
+            <li class="megaMenuTheme_1 DCItem" itemid="TimeDeposits_be9a4a7a" itemactionid="TimeDeposits_be9a4a7a_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Platinum%20Certificates%20and%20Deposits%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/ab2c03d6-1517-44c9-89b7-33a02c6a3d3d.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">شهادات ادخار و ودائع</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="TimeDepositsInterestPaidatMaturity_2b1ebc89" itemactionid="TimeDepositsInterestPaidatMaturity_2b1ebc89_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;platinumlocaldeposits&quot;}" class="DCItem"><a propertyid="Name">الودائع - عملة محلية</a></li><li itemid="MultiFrequenciesTimeDeposits_63addb14" itemactionid="MultiFrequenciesTimeDeposits_63addb14_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;PlatinumForeignDeposits&quot;}" class="DCItem"><a propertyid="Name">الودائع - عملات أجنبية</a></li><li itemid="ForeignCurrencyCertificates_14b4a6f7" itemactionid="ForeignCurrencyCertificates_14b4a6f7_OpenURL" class="DCItem"><a propertyid="Name">شهادات بالعملة الأجنبية</a></li><li itemid="LocalCurrencyCertificates_662b7d9b" itemactionid="LocalCurrencyCertificates_662b7d9b_OpenURL" class="DCItem"><a propertyid="Name">شهادات بالعملة المحلية</a></li><li itemid="BeladyCertificates_d58691f8" itemactionid="BeladyCertificates_d58691f8_OpenURL" class="DCItem"><a propertyid="Name">شهادات بلادي</a></li><li itemid="InvestmentCertificates_50fb9bdb" itemactionid="InvestmentCertificates_50fb9bdb_OpenURL" class="DCItem"><a propertyid="Name">شهادات استثمار</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+		<ul placeholderid="VerticalSection4" class="tab-3" id="VerticalSection4">
+            <li class="megaMenuTheme_1 DCItem" itemid="DigitalBanking_3a4f165f" itemactionid="DigitalBanking_3a4f165f_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Platinum%20accounts%20and%20loans%22%7D">
+    <div class="icon-holder">
+        <a>
+            <img propertyid="Icon" src="./book_files/c1f4db6a-3336-44a6-acb5-fb41ad762dad.svg" class="img-full-width">
+        </a>
+    </div>
+    <div class="info-holder">
+        <h5 class="gold-txt-1" propertyid="Name">الحسابات والقروض</h5>
+        <div>
+            <ul placeholderid="SubItems" id="SubItems">
+                <li itemid="AlAhlye-Branch_85fe5842" itemactionid="AlAhlye-Branch_85fe5842_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumCurrentAccount%22%7D" class="DCItem"><a propertyid="Name">الحسابات الجارية</a></li><li itemid="AlAhlyNet-Platinum_e424098f" itemactionid="AlAhlyNet-Platinum_e424098f_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PlatinumSavingAccounts%22%7D" class="DCItem"><a propertyid="Name">حسابات التوفير</a></li><li itemid="EscrowAccount_17adc542" itemactionid="EscrowAccount_17adc542_OpenURL" class="DCItem"><a propertyid="Name">الحساب الوسيط</a></li><li itemid="AlAhlyPhoneCash_c4d00fa9" itemactionid="AlAhlyPhoneCash_c4d00fa9_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Platinum%20Personal%20Cash%20Loan%22%7D" class="DCItem"><a propertyid="Name">القروض الشخصية</a></li><li itemid="AlAhlye-Shopping_172ca47a" itemactionid="AlAhlye-Shopping_172ca47a_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22Platinum%20Auto%20loan%22%7D" class="DCItem"><a propertyid="Name">قروض السيارة
+</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+        </ul>
+    </div>
+</div> </div><div class="menu-item item-4 tab-3 stripped_gray_background DCItem" itemid="SelfServices_ee94d4e5" itemactionid="SelfServices_ee94d4e5_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;selfservices&quot;%7D">
+    <button>
+		<img propertyid="imgSrc" src="./book_files/7ef0afd4-5d96-477c-aede-6c98c5841e23.svg" alt="" defaultvalue="images/DefaultIcons/Header.png"> 
+        <label propertyid="Name" class="gold-txt-3">الخدمات الذاتية</label>
+	</button>
+  </div>
+		</div>
+	</div>
+	<!-- Mega Menu --></div></div></div></div></div></div></div><div id="layout_3VerticalContainers_2sidesContainers_slidemenu" class="LayoutContainerDiv layout_3VerticalContainers_2sidesContainers_slidemenu layout_3VerticalContainers_2sidesContainers_slidemenu"></div><div id="layout_3VerticalContainers_2sidesContainers_floatingmenu" class="LayoutContainerDiv layout_3VerticalContainers_2sidesContainers_floatingmenu layout_3VerticalContainers_2sidesContainers_floatingmenu"><div id="zninsAppLayoutFloatingMenu_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutFloatingMenu_Default Zone_znAppLayoutFloatingMenu_Class undefined"><div class="WidgetInstanceBody WidgetContainer" id="wgNBEDynamicWidget_FloatingMenu_Container"><div id="wgNBEDynamicWidget_FloatingMenu" class="WidgetInstance wgNBEDynamicWidget_FloatingMenu undefined WidgetInstance_wgNBEDynamicWidget_FloatingMenu_Class"><div id="GeneratedContent" forcontentid="NBE_DC_FloatingMenu"><div class="fixed-menu hidden-mob" id="#fixed-menu"> 
+	<button onclick="SiteFunctions.OpenFloatingMenu();" class="sliderarrow arrow" id="arrow" style="display: block;">  
+        <img propertyid="imgSourc" src="./book_files/8b8656f1-e39c-4892-b4d3-9f6a3f304c2d.svg" alt="Exchange Rate"> 
+	</button>
+	<div class="close-menu" onclick="SiteFunctions.CloseFloatingMenu();">
+        <img src="./book_files/right-arrow.png">
+</div>
+	<div placeholderid="VerticalSection1" class="fix-tabs" id="VerticalSection1">        
+		   <div onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="Facebook_9a5f740e" itemactionid="Facebook_9a5f740e_OpenURL_https://www.facebook.com/NBE1898/" class="DCItem">
+<button propertyid="Name" class="fix-tab-link">
+    <img propertyid="ImageSrc" src="./book_files/43be98ae-e7d3-45e8-85bc-1dc56a2ac25e.svg" defaultvalue="images/DefaultIcons/Header.png">
+	 
+</button>
+<div class="fix-content animated fadeIn MenuWidgetInstance"></div>
+
+</div><div onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="twitter_f4199565" itemactionid="twitter_f4199565_OpenURL_https://instagram.com/nbe1898" class="DCItem">
+<button propertyid="Name" class="fix-tab-link">
+    <img propertyid="ImageSrc" src="./book_files/5338c96b-56c8-4b27-98c5-0f2b5cd6ec50.svg" defaultvalue="images/DefaultIcons/Header.png">
+	 
+</button>
+<div class="fix-content animated fadeIn MenuWidgetInstance"></div>
+
+</div><div onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="WhatsApp_99b373b8" itemactionid="WhatsApp_99b373b8_OpenURL_https://wa.me/+20219623" class="DCItem">
+<button propertyid="Name" class="fix-tab-link">
+    <img propertyid="ImageSrc" src="./book_files/ad35d43c-4fa3-47e7-b2df-19963c0367d6.svg" defaultvalue="images/DefaultIcons/Header.png">
+	 
+</button>
+<div class="fix-content animated fadeIn MenuWidgetInstance"></div>
+
+</div><div onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="NBE_DC_FloatingMenuItem1" menuwidgetinstanceid="wginsExchangeRateCurrencyConverter_Home" itemactionid="undefined_OpenWidgetInstance_wginsExchangeRateCurrencyConverter_Home" class="DCItem">
+<button propertyid="Name" class="fix-tab-link">
+    <img propertyid="ImageSrc" src="./book_files/07deae65-4050-441e-a832-3aede0134823.svg" defaultvalue="images/DefaultIcons/Header.png">
+	 
+</button>
+<div class="fix-content animated fadeIn MenuWidgetInstance"></div>
+
+</div><div class="PreLoginItems DCItem" onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="login_e322a76a" menuwidgetinstanceid="wginsCustomerLogin_Home" itemactionid="undefined_OpenWidgetInstance_wginsCustomerLogin_Home">
+<button propertyid="Name" class="fix-tab-link">
+    <img propertyid="ImageSrc" src="./book_files/fa26e05b-1831-42a7-9d38-d9d500bc49b8.svg" defaultvalue="images/DefaultIcons/Header.png">
+	 
+</button>
+<div class="fix-content animated fadeIn MenuWidgetInstance"></div>
+
+</div><div onclick="SiteFunctions.ForceOpenFloatingMenu();" itemid="Ahlynet_fea36133" itemactionid="Ahlynet_fea36133_OpenURL_https://www.alahlynet.com.eg/" class="DCItem">
+<button propertyid="Name" class="fix-tab-link">
+		<img propertyid="ImageSrc" src="./book_files/32b91a75-ad8f-4d02-a2d4-f88ec9f6ce1e.svg" defaultvalue="images/DefaultIcons/Header.png">
+		<label>دخول</label>
+	</button>
+	
+	</div>
+	</div>
+</div></div></div></div></div></div><div id="layout_3VerticalContainers_2sidesContainers_content" class="LayoutContainerDiv layout_3VerticalContainers_2sidesContainers_content layout_3VerticalContainers_2sidesContainers_content full-section"><div id="zninsHomeSections_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsHomeSections_Default Zone_znHomeSections_Class undefined"><div class="WidgetInstanceBody WidgetContainer" id="Static_wginsLandingProductsSlider_Default_Container"><div id="Static_wginsLandingProductsSlider_Default" class="WidgetInstance Static_wginsLandingProductsSlider_Default undefined Static_wginsLandingProductsSlider_DefaultCSSClass"><div class="product-slider">        <div class="swiper-container gallery-top product-slider-top swiper-container-horizontal swiper-container-rtl">        <div class="swiper-wrapper" style="transform: translate3d(752px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-prev" style="width: 752px;">               <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams={%22CategoryID%22%3A%22CreditCardsSummerOffer%22}"> <img src="./book_files/8c64bd62-b687-40c9-91f7-12c013ae10ba.jpg"></a> </div><div class="swiper-slide swiper-slide-active" style="width: 752px;"><a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams={%22CategoryID%22%3A%22ForigenCertificatesID%22}"><img src="./book_files/e19b8a67-1591-4d4f-a636-98fc5a06efc9.jpg" class="fr-dii fr-draggable"></a></div><div class="swiper-slide swiper-slide-next" style="width: 752px;"><a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%22selfservices%22%2C%22ProductID%22%3A%22%D8%A7%D9%86%D8%B6%D9%85%20%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_18782%22%7D"><img src="./book_files/fddb1e21-daaf-4650-915d-d41b356685da.jpg" class="fr-dii fr-draggable"></a><div class="product-slide-info"><br></div></div><div class="swiper-slide" style="width: 752px;">              <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%22selfservices%22%2C%22ProductID%22%3A%22%D8%A7%D9%86%D8%B6%D9%85%20%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_18719%22%7D">  <img src="./book_files/32504b9d-3c80-4276-9cac-eec41c306a76.jpg"></a>      </div>     <div class="swiper-slide" style="width: 752px;">              <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams={%22CategoryID%22%3A%22284%22}">  <img src="./book_files/4b5e8cf6-bfa4-455f-ac37-9d46ec07a0ce.jpg"></a>      </div>                                                                                                       <div class="swiper-slide" style="width: 752px;">                 <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams={%22CategoryID%22%3A%2250%22%2C%22ProductID%22%3A%22NBE%20phone%20Cash_15514%22}"> <img src="./book_files/d89d64a9-7c4d-4af9-960c-7618ea203290.jpg"></a>   </div>                                                                       </div>    <span class="swiper-notification"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>           <div class="swiper-container gallery-thumbs product-slider-thumbs swiper-container-horizontal swiper-container-rtl">        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">                        <div class="swiper-slide divLandingProductSliderCreditCard swiper-slide-active" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/11f8b0bb-f01e-4a72-967c-85300f8930fe.svg">                    <div>                        <h4>افتح حسابك وإنت في مكانك</h4>                                         </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%22selfservices%22%2C%22ProductID%22%3A%22%D8%A7%D9%86%D8%B6%D9%85%20%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_18719%22%7D">المزيد</a>                </div></div>           <div class="swiper-slide divLandingProductSliderCreditCard swiper-slide-next" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/33cf6639-ce3d-4085-954a-c3418f6e5e5d.svg">                    <div>                        <h4>الخدمات الذاتية</h4>                                         </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams={%22CategoryID%22%3A%22selfservices%22}">المزيد</a>                </div>            </div><div class="swiper-slide divLandingProductSliderCreditCard" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/e088e31a-c50a-4176-9081-51f5e2f5425f.svg">                    <div>                        <h4>بطاقات إئتمان</h4>                                       </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CreditCardsID%22%7D">المزيد</a>                </div>            </div>                                                          <div class="swiper-slide divLandingProductSliderPersonalLoan" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/053eda01-0419-4392-8a1d-c0d6b9f4d2fe.svg">                    <div>                        <h4>قرض شخصي</h4>                                        </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22PersonalLoansCatID%22%7D">المزيد</a>                </div>            </div>                                    <div class="swiper-slide divLandingProductSliderCarLoan" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/3ae9c8db-ded3-4fe7-8eaa-b47ff46e0944.svg">                    <div>                        <h4>قرض السيارة</h4>                                </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22NewAutoLoanID%22%7D">المزيد</a>                </div>            </div>                                              <div class="swiper-slide divLandingProductSliderCertificate" style="width: 376px;">                <div class="product-slide-thumb">                    <img src="./book_files/13b8a7e2-6065-4875-ae3d-8257a149bca4.svg">                    <div>                        <h4>شهادات</h4>                          </div>                    <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22CertificatesID%22%7D">المزيد</a>                </div>            </div>                              </div>    <span class="swiper-notification"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>    </div></div></div><div class="WidgetInstanceBody WidgetContainer" id="wginsLandingLatestNews_Default_Container"><div id="wginsLandingLatestNews_Default" class="WidgetInstance wginsLandingLatestNews_Default undefined wginsLandingLatestNews_DefaultCSSClass"><!-- latest news -->  <!--<div _tmplitem="28"  class="lst-new full-section hidden-mob">      <div _tmplitem="28"  class="section">          <div _tmplitem="28"  class="swiper-container news-swiper">              <div _tmplitem="28"  class="swiper-wrapper">                  <div _tmplitem="28"  class="swiper-slide">                      <div _tmplitem="28"  class="news-item">                          <div _tmplitem="28" >                              <img _tmplitem="28"  src="../Mainsite/SiteImages/new/White_NBE_logo.png">                          </div>                          <div _tmplitem="28" >                              <p _tmplitem="28" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!</p>                              <button _tmplitem="28" >Read more</button>                          </div>                      </div>                  </div>                    <div _tmplitem="28"  class="swiper-slide">                      <div _tmplitem="28"  class="news-item">                          <div _tmplitem="28" >                              <img _tmplitem="28"  src="../Mainsite/SiteImages/new/White_NBE_logo.png">                          </div>                          <div _tmplitem="28" >                              <p _tmplitem="28" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis saepe perspiciatis id optio quaerat, totam assumenda mollitia sapiente, odit, ipsam ipsum magnam dolorem earum necessitatibus quo architecto ad laboriosam recusandae!</p>                              <button _tmplitem="28" >Read more</button>                          </div>                      </div>                  </div>              </div>          </div>        </div>  </div>-->  <!-- latest news -->    <!-- Old latest news -->  <div class="lst-new full-section" style="background-image: url(&quot;../../AssetsManager/6853bd7f-05b9-4caf-955f-b4078cdc9eab.jpg&quot;);">      <div class="section">          <div id="lst-news" class="swiper-container news-swiper swiper-container-horizontal swiper-container-rtl">              <div class="swiper-wrapper" id="divLandingLatestNewsSliderContainer"></div>              <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span></div>          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>      </div>  </div>      <div id="divLandingLatestNewsSlideTemplate" class="HideElement">      <div class="swiper-slide">          #Items#      </div>  </div>  <div id="divLandingLatestNewsSlideItemTemplate" class="HideElement">      <div class="news-item">          <div>              <img src="./book_files/White_NBE_logo.png">          </div>          <div>              <h4 class="textLstnew">#ProductName#</h4>              <p>                  #ShortHTMLDesc#              </p>              <button class="btnLandingLatestNewsSlideItemTemplate" productid="#ProductID#">إقرأ أكثر</button>          </div>      </div>  </div>  <!-- /Old latest news --></div></div><div class="WidgetInstanceBody WidgetContainer" id="Static_wginsLandingProducts_Default_Container"><div id="Static_wginsLandingProducts_Default" class="WidgetInstance Static_wginsLandingProducts_Default undefined Static_wginsLandingProducts_DefaultCSSClass"><div class="WidgetInstanceBody WidgetContainer" id="Static_wginsLandingProducts_Default_Container"><div id="Static_wginsLandingProducts_Default" class="WidgetInstance Static_wginsLandingProducts_Default undefined Static_wginsLandingProducts_DefaultCSSClass"><div class="products">    <div class="section">     <br> <h3>الخدمات الإلكترونية</h3><br>        <div>            <div class="swiper-container products-swiper swiper-container-horizontal swiper-container-android swiper-container-rtl">                <div class="swiper-wrapper" style="transform: translate3d(379px, 0px, 0px); transition-duration: 0ms;">                                        <div class="swiper-slide product swiper-slide-prev" style="width: 339px; margin-left: 40px;">                        <div> <img src="./book_files/68765816-8f43-4dcd-b6ec-8b892ee6149a.svg"> </div>                        <p>تقدم لك خدمة الأهلي نت تجربة مصرفية متطورة سهلة آمنة والمصممة خصيصا لتلبي إحتياجاتك  </p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%2250%22%2C%22ProductID%22%3A%22Ahly%20Net%20-%20Personal_16537%22%7D">أعرف أكتر</a>                    </div><div class="swiper-slide product swiper-slide-active" style="width: 339px; margin-left: 40px;">                        <div> <img src="./book_files/4ec79790-ab88-4fd4-96d6-ed3aeb4f4e00.svg"> </div>                        <p>خدمة الموبايل البنكي "الأهلي موبايل" والتي تقدم تجربة مصرفية متطورة سهلة وآمنة والتي تتيح لك اجراء العديد من الخدمات المصرفية المتطورة من أي مكان وفي أي وقت</p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%2250%22%2C%22ProductID%22%3A%2216641%22%7D">أعرف أكتر</a>                    </div><div class="swiper-slide product swiper-slide-next" style="width: 339px; margin-left: 40px;">                        <div> <img src="./book_files/334064c5-f977-4737-9db4-85c9179b2cac.svg"> </div>                        <p>هي خدمة مقدمة من قبل البنك الأهلي المصري تتيح للعملاء استخدام الهاتف المحمول في تحويل الأموال - دفع الفواتير- شحن رصيد - إيداع / سحب نقدي-اصدار كارت افتراضي</p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%2250%22%2C%22ProductID%22%3A%2215514%22%7D">أعرف أكتر</a>                    </div><div class="swiper-slide product" style="width: 339px; margin-left: 40px;">                        <div> <img src="./book_files/07551ac5-a64e-4198-b0f2-c2269a118e5f.svg"> </div>                        <p>هو نموذج جديد يقدمه البنك كأحد النماذج الجديدة ضمن استراتيجية التحول الرقمي للبنك الأهلي.</p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductDetails?inParams=%7B%22CategoryID%22%3A%2250%22%2C%22ProductID%22%3A%2215505%22%7D">أعرف أكتر</a>                    </div><div class="swiper-slide product" style="width: 339px; margin-left: 40px;">                        <div>                            <img src="./book_files/52d0b0b9-ab8b-4cd9-aae6-c8ad5e762e40.svg"> </div>                        <p>خدمة مقدمة من قبل البنك الأهلي المصري تتيح لعملائك شراء أي منتج / خدمة أو سداد أية مستحقات عبر الإنترنت للمؤسسات من خلال موقعها الإلكتروني</p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22ecommerce%22%7D">أعرف أكتر</a>                    </div>                    <div class="swiper-slide product" style="width: 339px; margin-left: 40px;">                        <div> <img src="./book_files/3ce91d3a-2d8d-4b62-82f7-df184348bb4b.svg"> </div>                        <p>خدمة استخدام بطاقات البنك الأهلي المصري (الائتمانية، الخصم و المدفوعة مقدماً) في المشتريات المحلية و الدولية وسوف تكسب نقاط</p>                        <a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22AhlyPoints%22%7D">أعرف أكتر</a>                    </div>                                                                                                                   </div>        <br>     <br>     <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div> <span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>        </div>    </div></div></div></div></div></div><div class="WidgetInstanceBody WidgetContainer" id="Videos_YT_Container"><div id="Videos_YT" class="WidgetInstance Videos_YT undefined Videos_YTCSSClass"><div class="section"><br>   <h3 class="green-txt-1 align-center"> تعرف أكثر على الخدمات المتاحة من خلال الخدمات الإلكترونية </h3>               <iframe src="./book_files/ktlvorTf0F8.html" class="tab-6 mob-12 lab-6 videoframe"></iframe><iframe src="./book_files/UFcjNpPFRdY.html" class="tab-6 mob-12 lab-6 videoframe"></iframe><iframe src="./book_files/933_es3XvXA.html" class="tab-6 mob-12 lab-6 videoframe"></iframe><iframe src="./book_files/MT4aCEgYLiE.html" class="tab-6 mob-12 lab-6 videoframe"></iframe></div></div></div><div class="WidgetInstanceBody WidgetContainer" id="New Magazine_Container"><div id="New Magazine" class="WidgetInstance New Magazine undefined New MagazineCSSClass"><div class="section"><p></p><a href="https://www.nbe.com.eg/NBE/E/#/AR/ProductCategory?inParams=%7B%22CategoryID%22%3A%22magazine%22%7D"><img src="./book_files/ffba9284-bb69-458f-b210-772fc148108d.jpg" class="home-img"></a><p></p></div></div></div></div></div><div id="layout_3VerticalContainers_2sidesContainers_footer" class="LayoutContainerDiv layout_3VerticalContainers_2sidesContainers_footer layout_3VerticalContainers_2sidesContainers_footer full-section"><div id="zninsAppLayoutPageButtons_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutPageButtons_Default Zone_znAppLayoutPageButtons_Class undefined"><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutPageButtons_Default_Container"><div id="wginsAppLayoutPageButtons_Default" class="WidgetInstance wginsAppLayoutPageButtons_Default undefined WidgetInstance_wginsAppLayoutPageButtons_Default_Class"><div id="fb-root"></div>    <div id="divAppLayoutPageButtonsSocialContainer" class="favorite-btn HideElement">        <input type="submit" class="HideElement btnAppLayoutButtonsLikeAndShare" id="btnAppLayoutButtonsShare" value="مشاركة" fbtype="og.shares">        <button id="buttonAppLayOutPageButtonsSetFavouritPage" class="HideElement">          <img src="./book_files/ico-favo.svg" alt="Favorate icon">          <h6>أضف إلى المفضلة</h6>      </button>      <div id="divAppLayoutPageButtonsLikeBtn" class="HideElement facebook-share fb-like-box">          <!--<iframe _tmplitem="32"  src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.nbe.com.eg%2FNBE%2FE%2F%23%2FAR%2FHome&width=100px&layout=button&action=like&size=small&show_faces=false&share=false&height=65&appId" width="120px" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>-->                </div>  </div></div></div></div><div id="zninsAppLayoutFooterHighlghtedIcons_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutFooterHighlghtedIcons_Default Zone_znAppLayoutFooterHighlghtedIcons_Class undefined"><div class="WidgetInstanceBody WidgetContainer" id="wginsNBEDynamicWidget_HighLightedMenuIcons_Container"><div id="wginsNBEDynamicWidget_HighLightedMenuIcons" class="WidgetInstance wginsNBEDynamicWidget_HighLightedMenuIcons undefined WidgetInstance_wginsNBEDynamicWidget_HighLightedMenuIcons_Class"><div id="GeneratedContent" forcontentid="NBE_DC_HighLightedMenuIcons"><div class="admin_pad-16 stripped_gray_background contacts-list full-section footer-margin-bottom">
+    <div class="section">
+        <ul placeholderid="VerticalSection1" id="VerticalSection1">
+            <li propertyid="Name" class="mob-4 DCItem" itemid="NBE_DC_HighLightedMenuIconsItem1" itemactionid="NBE_DC_HighLightedMenuIconsItem1_ATMLocator">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/2b564ac8-5570-4e2f-af85-157eeb45c943.svg" alt="الفروع وماكينات الصراف الآلي" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">الفروع وماكينات الصراف الآلي</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="NBE_DC_HighLightedMenuIconsItem2" itemactionid="NBE_DC_HighLightedMenuIconsItem2_OpenContent_FAQs_6a8b44bd">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/cc5398bc-e93e-461e-a008-0870d6d4df1b.svg" alt="الأسئلة الشائعة" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">الأسئلة الشائعة</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="NBE_DC_HighLightedMenuIconsItem3" itemactionid="NBE_DC_HighLightedMenuIconsItem3_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;ahlypoints&quot;%7D">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/742690b7-4fae-4be9-92d0-848ad8bec014.svg" alt="الأهلي بوينتس" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">الأهلي بوينتس</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="AhlyNet_1fd89aaf" itemactionid="AhlyNet_1fd89aaf_OpenURL_https://www.alahlynet.com.eg/">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/32b91a75-ad8f-4d02-a2d4-f88ec9f6ce1e.svg" alt="الأهلي نت" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">الأهلي نت</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="new_ff51c83e" itemactionid="new_ff51c83e_OpenURL_/ProductGetOrderDetails">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/26a01a93-a0dd-409b-b10a-32fec6e078a2.svg" alt="تابع طلبك" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">تابع طلبك</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="ExchangeRates_107f04ea" itemactionid="ExchangeRates_107f04ea_OpenURL">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/862b9a0e-d374-49ee-bfa0-ca10eabcf5ea.svg" alt="أسعار العملات" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">أسعار العملات</label>
+    </div>
+</li><li propertyid="Name" class="mob-4 DCItem" itemid="AlAhlyWhatsApp_13eebcfe" itemactionid="AlAhlyWhatsApp_13eebcfe_OpenURL">
+    <div>
+        <img propertyid="ImageSrc" src="./book_files/af8b72ac-4c70-4f23-846e-397d016235c0.svg" alt="الأهلي واتساب" defaultvalue="images/DefaultIcons/Light.png">
+        <label class="gold-txt-3">الأهلي واتساب</label>
+    </div>
+</li>
+        </ul>
+    </div>
+</div></div></div></div></div><div id="zninsAppLayoutFooter_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutFooter_Default Zone_znAppLayoutFooter_Class section sitemap hidden-mob undefined"><div class="WidgetInstanceBody WidgetContainer" id="wginsCreateDynamicContent_FooterMenu_b278a89f_Container"><div id="wginsCreateDynamicContent_FooterMenu_b278a89f" class="WidgetInstance wginsCreateDynamicContent_FooterMenu_b278a89f undefined WidgetInstance_wginsCreateDynamicContent_FooterMenu_b278a89f_Class"><div id="GeneratedContent" forcontentid="FooterMenu_b278a89f"><!-- SiteMap -->
+<div>
+<div class="tab20 stripped_gray_background">
+    <ul placeholderid="VerticalSection1" id="VerticalSection1">
+        <li class="admin_mar-Top-20  DCItem" itemid="Iwantto_19fe51ee" itemactionid="Iwantto_19fe51ee_OpenContent_NBEAndCommunity_92b05cde">
+    <label class="gold-txt-3" propertyid="Name">أرغب في...</label>
+    <ul placeholderid="SubItems" id="SubItems">
+        <li itemid="PurchaseaCertificate_713ce95a" itemactionid="PurchaseaCertificate_713ce95a_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;BeladyCertificateID&quot;%7D" class="DCItem">
+  <button propertyid="Name">شراء شهادة</button>
+</li><li itemid="ApplyforaCreditCard_f6b3b499" itemactionid="ApplyforaCreditCard_f6b3b499_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;CreditCardsID&quot;%7D" class="DCItem">
+  <button propertyid="Name">طلب الحصول على بطاقة ائتمان</button>
+</li><li itemid="Applyforaloan_80902382" itemactionid="Applyforaloan_80902382_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;LoanCatID&quot;%7D" class="DCItem">
+  <button propertyid="Name">طلب الحصول على قرض</button>
+</li><li itemid="Pointofsalerequest_d7c7f5e1" itemactionid="Pointofsalerequest_d7c7f5e1_OpenURL_/ProductCategory?inParams={&quot;CategoryID&quot;%3A&quot;posrequest&quot;}" class="DCItem">
+  <button propertyid="Name">تمويل التجار أصحاب نقاط البيع الالكترونية (POS)</button>
+</li><li itemid="Paytaxesanduniversitiesfees_43874d5d" itemactionid="Paytaxesanduniversitiesfees_43874d5d_OpenURL_https://www.khales.com.eg/NBEFWT/login.aspx" class="DCItem">
+  <button propertyid="Name">دفع الضرائب ورسوم الجامعات</button>
+</li>
+    </ul>
+</li>
+    </ul>
+</div>
+<div class="tab20 stripped_gray_background">
+    <ul placeholderid="VerticalSection2" id="VerticalSection2">
+        <li class="admin_mar-Top-20  DCItem" itemid="Usefullinks_69ebe6f7" itemactionid="Usefullinks_69ebe6f7_NoAction">
+    <label class="gold-txt-3" propertyid="Name">الخدمات</label>
+    <ul placeholderid="SubItems" id="SubItems">
+        <li itemid="ExchangeRates_8383f715" itemactionid="ExchangeRates_8383f715_OpenURL_/MultiArticle" class="DCItem">
+  <button propertyid="Name">الأوراق المالية</button>
+</li><li itemid="DepositandSavingRates_17f0f27d" itemactionid="DepositandSavingRates_17f0f27d_OpenURL_/ProductDetails?inParams=%7B%22CategoryID%22%3A%221b6ba6aa07%22%2C%22ProductID%22%3A%2216541%22%7D" class="DCItem">
+  <button propertyid="Name">تحصيل مستحقات الحكومة الكترونياً</button>
+</li><li itemid="InvestmentTrusteesDivision_127d30bb" itemactionid="InvestmentTrusteesDivision_127d30bb_OpenURL" class="DCItem">
+  <button propertyid="Name">أمناء الأستثمار</button>
+</li><li itemid="tst_dd441db8" itemactionid="tst_dd441db8_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;Bancassurance&quot;%7D" class="DCItem">
+  <button propertyid="Name">التأمين البنكي</button>
+</li>
+    </ul>
+</li>
+    </ul>
+</div>
+<div class="tab20 stripped_gray_background">
+    <ul placeholderid="VerticalSection3" id="VerticalSection3">
+        <li class="admin_mar-Top-20  DCItem" itemid="Rates_eef51baf" itemactionid="Rates_eef51baf_NoAction">
+    <label class="gold-txt-3" propertyid="Name">اختصارات</label>
+    <ul placeholderid="SubItems" id="SubItems">
+        <li itemid="Charges&amp;Fees_f4f877fa" itemactionid="Charges&amp;Fees_f4f877fa_OpenURL_/ExchangeRatesAndCurrencyConverter" class="DCItem">
+  <button propertyid="Name">أسعار العملات</button>
+</li><li itemid="ElectronicCollectionofGovernmentDues_8462d6c0" itemactionid="ElectronicCollectionofGovernmentDues_8462d6c0_OpenURL_/PrizesInfo" class="DCItem">
+  <button propertyid="Name">الجوائز</button>
+</li><li itemid="SMEs_440e2ae2" itemactionid="SMEs_440e2ae2_OpenURL_/ProductCategory?inParams=%7B%22CategoryID%22%3A%22SMEsAll%22%7D" class="DCItem">
+  <button propertyid="Name">المشروعات الصغيره و المتوسطة</button>
+</li><li itemid="FeesAndCharges_feff6f5e" itemactionid="FeesAndCharges_feff6f5e_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;Tariff&quot;%7D" class="DCItem">
+  <button propertyid="Name">الرسوم والمصاريف</button>
+</li><li itemid="ElectronicTransfers’Agents&amp;Correspondents_28457d34" itemactionid="ElectronicTransfers’Agents&amp;Correspondents_28457d34_OpenURL" class="DCItem">
+  <button propertyid="Name">وكلاء ومراسلي التحويلات الإلكترونية</button>
+</li>
+    </ul>
+</li>
+    </ul>
+</div>
+<div class="tab20 stripped_gray_background">
+    <ul placeholderid="VerticalSection4" id="VerticalSection4">
+        <li class="admin_mar-Top-20  DCItem" itemid="BankingServices_530ac849" itemactionid="BankingServices_530ac849_NoAction">
+    <label class="gold-txt-3" propertyid="Name">روابط مفيدة</label>
+    <ul placeholderid="SubItems" id="SubItems">
+        <li itemid="Careers_9d11551b" itemactionid="Careers_9d11551b_OpenURL_/HRApplications" class="DCItem">
+  <button propertyid="Name">الوظائف المتاحة</button>
+</li><li itemid="MobileBillPayment_41b057ea" itemactionid="MobileBillPayment_41b057ea_OpenURL" class="DCItem">
+  <button propertyid="Name">دفع فواتير</button>
+</li><li itemid="Donation_afa4bcd1" itemactionid="Donation_afa4bcd1_OpenURL" class="DCItem">
+  <button propertyid="Name">تبرعات</button>
+</li><li itemid="InstallmentOffers_a3df1a4e" itemactionid="InstallmentOffers_a3df1a4e_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;1Credit Cards Offers&quot;%7D" class="DCItem">
+  <button propertyid="Name">عروض التقسيط و الخصومات</button>
+</li><li itemid="ConsumerProtection_a1168eca" itemactionid="ConsumerProtection_a1168eca_OpenURL_https://www.nbe.com.eg/AssetsManager/a11e0c3c-5851-4793-bbd0-98b50c4201ea.pdf" class="DCItem">
+  <button propertyid="Name">حماية حقوق العملاء</button>
+</li><li itemid="BranchBookingAppointment_c8e9f7b9" itemactionid="BranchBookingAppointment_c8e9f7b9_OpenURL" class="DCItem">
+  <button propertyid="Name">حجز موعد بالفرع</button>
+</li>
+    </ul>
+</li>
+    </ul>
+</div>
+<div class="tab20 stripped_gray_background">
+    <ul placeholderid="VerticalSection5" id="VerticalSection5">
+        <li class="admin_mar-Top-20  DCItem" itemid="Others_c0d27244" itemactionid="Others_c0d27244_NoAction">
+    <label class="gold-txt-3" propertyid="Name">أخرى</label>
+    <ul placeholderid="SubItems" id="SubItems">
+        <li itemid="Sitemap_444d5f80" itemactionid="Sitemap_444d5f80_OpenURL_/SiteMap" class="DCItem">
+  <button propertyid="Name">خريطة الموقع</button>
+</li><li itemid="News_16f7a0e7" itemactionid="News_16f7a0e7_OpenURL_/ProductCategory?inParams=%7B&quot;CategoryID&quot;%3A&quot;NewsCat2ID&quot;%7D" class="DCItem">
+  <button propertyid="Name">مكتبة الأخبار</button>
+</li><li itemid="Research_81b15375" itemactionid="Research_81b15375_OpenContent_EgyptianEconomy" class="DCItem">
+  <button propertyid="Name">البحوث</button>
+</li><li itemid="Correspondents_a9ad691b" itemactionid="Correspondents_a9ad691b_OpenURL_/ATMBranch" class="DCItem">
+  <button propertyid="Name">المراسلين / الوكلاء / الوحدات الخارجية</button>
+</li><li itemid="Tenders_f41cd490" itemactionid="Tenders_f41cd490_OpenURL" class="DCItem">
+  <button propertyid="Name">مناقصات</button>
+</li>
+    </ul>
+</li>
+    </ul>
+</div>
+<!-- SiteMap -->
+<div propertyid="FooterInfoSection" class="footer-sec-widget">
+    <div class="row-group"><div class="tab-7"><h5 class="gold-txt-1">المقر الرئيسي</h5><ul><li>1187 كورنيش النيل ، برج البنك الأهلي ، بولاق ، القاهرة ، مصر<ul><li><br></li><li><h5 class="gold-txt-1">اتصل بنا</h5><ul><li>محليا: 19623 - دوليا: 0020219623</li></ul></li><li><h5 class="gold-txt-1"><br></h5></li></ul></li></ul></div><h5 class="gold-txt-1 Socialize">تواصل معانا</h5><ul><li class="sm-links"><span><a href="https://www.facebook.com/NBE1898/"><img src="./book_files/0e350d70-0989-49c4-b8f2-70202afac133.svg" class="fr-dii fr-draggable"></a>&nbsp;</span><span><a href="https://instagram.com/nbe1898"><img src="./book_files/93edd595-6bd2-4949-b62f-d516a75f6422.jpg" class="fr-dii fr-draggable"></a>&nbsp;</span><span><a href="https://wa.me/+20219623?text=Hi" target="_blank"><img src="./book_files/a12b7283-2a47-44ee-8462-9163ace1e703.png" class="fr-dii fr-draggable"></a>&nbsp;</span><span><a href="https://www.youtube.com/user/NationalBankofEgypt"><img src="./book_files/a1c9dced-f31c-4274-ac32-644a560b0d0a.svg" class="fr-dii fr-draggable"></a></span></li></ul></div><div class="row-group"><div class="tab-12"><h5 class="gold-txt-1">الإبلاغ عن مشكلة</h5><ul><li>اتصل بنا على الفور على الخط الساخن على مدار 24-ساعة 19623 للإبلاغ عن مشكلة أو بطاقة مفقودة</li></ul></div></div>
+</div>
+</div></div></div></div></div><div id="zninsAppLayoutFooterCopyRights_Default" style=" undefined" class="ZoneInstance XZoneInstanceContainer zninsAppLayoutFooterCopyRights_Default Zone_znAppLayoutFooterCopyRights_Class undefined"><div class="WidgetInstanceBody WidgetContainer" id="wginsAppLayoutCopyRights_Default_Container"><div id="wginsAppLayoutCopyRights_Default" class="WidgetInstance wginsAppLayoutCopyRights_Default undefined WidgetInstance_wginsAppLayoutCopyRights_Default_Class"><!-- Copyrights -->  <div class="copyright-bar">      <div class="section">          <p>جميع الحقوق محفوظة - البنك الأهلى المصرى © 2020 - V 1.0</p>      </div>  </div>  <!-- Copyrights --></div></div></div></div></div></div>
+        </div>
+        <div id="FooterContainer" class="FooterContainer">
+           
+        </div>
+
+    </div>
+    
+	
+		<!-- NBE Bot Widget -->
+<link rel="stylesheet" href="./book_files/all.min.css">
+<link rel="stylesheet" href="./book_files/bot-style.css">
+<script src="./book_files/bot-settings.js.download"></script>
+<script src="./book_files/bot-app.js.download"></script>
+<script src="./book_files/bot-web-sdk.js.download" onload="initSdk(&#39;Bots&#39;)"></script>
+<!-- NBE Bot Widget -->
+
+
+    
+
+
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><div dir="auto" class="oda-chat-wrapper oda-chat-collapsed"><div dir="auto" class="oda-chat-widget oda-chat-none" role="region" aria-labelledby="oda-chat-title"><!-- Floating Banner --> <div class="floating-banner" style="display: none;z-index: 2;top: 40px; left: 10px; border-radius: 6px; position: absolute; width: calc(100% - 20px); background-color: rgb(252, 182, 64); box-shadow: rgba(71, 69, 123, 0.2) 0px 2px 6px 0px, rgba(71, 69, 123, 0.03) 0px 4px 14px 0px; overflow: hidden; transition: all 0.3s ease-in-out 0s; opacity: 1;"><div class="floating-banner-text" style="color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; padding: 32px 0px 10px; line-height: 1.25; overflow-wrap: break-word; margin: 0px 10px;"><div class="customFloatingBanner"><div class="customFloatingBannerImageDiv"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAA4CAYAAAGDC0isAAAABGdBTUEAALGPC/xhBQAAArpJREFUSA21Vj1rVEEU3V3BBEVQiGm1t9SgRVohRf5BKkEs/BmmFSIIVoE0FjFgikgsgs0GiaI2BgQVXOys3Gb92Ajxec5k7rw7H2/mvcKB++Z+nHPmvjezk/R6GFVVTfj4DavoXDKOLVUDOhzivDWRweBxhVFfGIJxYOdcMywPzLWukymD7DsOB6fPgFVJOv0wcYGJPoYU3BxpmAo0P8DWGLjuhdO4igDcWzUm7rPtEcwMA4M3b2P3PublmCRCL3vklFG86ILIQXWJfA4WqXGcQu2fYKLnLFv4EqVVgpI/IkmVIOCBiiM3vQU17FMJsGCw6Ome6su5tRA8l62drRCwVdfqoxWCBLPoFVoFoB4I3c7zjojEk6BoQgegg8wwAM2FgDUAJjCeY/MrNAAEs7DU2CcgOuyebK93owQYlQBTnofc+FwCvCsBXpZ6uMwv+DH1EZhjc1ziWa5LKizkFAy5ATBiMfcWj93SDQregfEOLAmOTQfx1VDFA1iQxvi/CQuYKsT5lMKiAKKiJAB4A8vcWILsPEPW3Z+2jwNPxCbDaYmg3F7ccioh1cY3NWAuAA1dURwAZmCPYMcBWIesETMjPDMjsQHrOjaEvN6VqfDr/FlNoeS35PWXDY74mcdZSL44psBhHpOtvqfAqywkX3xNgXhP8yRdHfIjnkLmF+y0rrTw/wBzZoB/Y/g3fK8FIYTskctX4Hh6MnV6Go78PT4L6gRm4hYyvJfOoYOfpgM6SOy2IApk13IkNpfbsjqiJXe5ZioPrK8lJjGKEt0YD3WxwW/GQH0AG2e6YE12Lq0PwEpGYCXNCrIQ2EyIbAawfAiB50qkyxbnhf9/FW1zJ+7CXsC+W6PPXHEHdgAqjZ3ka4C1WmKq+qqI6Jb+SrLFnMZihW21SpO7nV0ALF5zt2E8B9+s0Wcuui/+AdTHzXL7Kf+eAAAAAElFTkSuQmCC" class="errorIcon"></div><div class="customFloatingBannerTextDiv"><span class="customFloatingBannerFirstSpan">Couldn't connect ...</span><br><span class="customFloatingBannerSecondSpan"> We'll keep retrying, or you can </span><a href="javascript:void(0);" style="text-decoration: underline; cursor: pointer;color: white;" onclick="javascript:window.parent.reconnectBot();">try now</a>.</div></div></div></div><!-- The Modal --><div id="regexModal" class="modal"> <!-- Modal content --> <div class="modal-content"> <div class="modal-header"> <img src="./book_files/caution_icon.png" alt="Girl in a jacket" width="" height="" style="    width: 70px;padding-top: 20px;">  </div> <div class="modal-header">   <img src="./book_files/caution_ar.png" alt="Girl in a jacket" width="" height="" style="    width: 70px;"></div><div class="modal-header">   <img src="./book_files/caution_en.png" alt="Girl in a jacket" width="" height="" style="    width: 80px;"></div><div class="modal-body" style="    text-align: center;"> <p style="color: #333;font-weight: bold;text-align: right;font-size: 15px;direction: rtl;">هذه الرسالة تحتوي على بيانات شخصية أو مالية. لذلك, لن يتم تنفيذ طلبك.</p> <p style="color: #333;font-weight: bold;text-align: right;font-size: 15px;direction: rtl;">برجاء عدم الإفصاح عن بياناتك الشخصية أو المالية أثناء استخدام الخدمة.</p><br>   <p style="color: #333;font-weight: bold;text-align: left;font-size: 15px;">This message contains personal or financial information.</p> <p style="color: #333;font-weight: bold;text-align: left;font-size: 15px;">Therefore, your request cannot be processes here.</p><p style="color: #333;font-weight: bold;text-align: left;font-size: 15px;">Please do not disclose your personal or financial data when using this service.</p><br><button id="confirmBtn" class="regex-button" onclick="javascript:window.parent.closeRegexModal();" tabindex="0"><div class="custom-oda-18biwo e1prtmiu1"><span>Confirm</span></div></button></div></div></div><!-- Cutom Banner --><div id="customBanner">   <button class="closeIconBanner" onclick="javascript:window.parent.closeWidget();"></button>         <div id="app" data-v-app="">      <div class="app-3cl75" aria-live="polite" role="main" style="--font:&quot;IBM Plex Sans&quot;; --fontSz:15px; --pc:rgb(0, 102, 67); --lc:rgb(3, 101, 255); --pcRGB:34, 41, 61; --lcRGB:3, 101, 255; --pc-text:#fff; --pc-textRGB:255, 255, 255; --lc-text:#fff; --bg:#fff; --lightBg:#f0f7f8; --text:#141414; --text-gray:#9aa39e; --border:#d6d6d6; --mark:#fffc79; --bgRGB:255, 255, 255; --textRGB:33, 33, 33;"> <div class="customBanner-main">            <!----><!---->                           <header class="header-1rqvn">               <div class="container-sf0EO" data-v-7e8f4192="" data-v-bc65acbc="">                  <!---->                                       <div class="wrap-cFKFT" data-v-7e8f4192="">                     <div class="header-aF4Lb" data-v-bc65acbc="">                        <div class="pic-1dEeN right-1jUBq" data-v-6ee47582="" data-v-bc65acbc="" style="display:none;background-image: url(https://chatbot.nbe.com.eg/plugin/images/nbe_test.png);"></div>                        <div class="text-2UBf1" data-v-bc65acbc="">                           <h1 data-no-space="" class="disclaimerHeader" data-v-bc65acbc="">أهلًا بك <br>في خدمة المساعد الآلي من البنك الأهلي المصري.</h1>                          </div>                     </div>                  </div><div class="customBanner-logo"><img src="./book_files/NBE_LOGO_NEW.svg" alt="My Happy SVG"></div>                  <!---->                                 </div>            </header>         </div> <div class="customBanner-avatar"><img src="./book_files/NBE_AVATAR_NEW.svg"></div>        <main class="main-2xcRE" role="main">            <!---->                           <div class="container-sf0EO layout-9aojZ" disabled="false" data-v-7e8f4192="" data-v-253cbc92="">               <!---->                                 <div class="wrap-cFKFT" data-v-7e8f4192="">                  <div class="custom-oda-home-screen-messenger-card custom-oda-home-screen-messenger-card-3 custom-oda-0 en4ni9q0">                     <div class="custom-oda-messenger-card-wrapper custom-oda-kzred5 e11j3510" style="height: auto;">                        <div class="custom-oda-0 edyhj2e0">                           <div>                              <div style="transition: opacity 300ms ease-in-out 0s;opacity: 1;">                                 <div class="custom-oda-messenger-card-body custom-oda-icbmz8 e1abq20i0">                                    <div class="custom-oda-zteh7t e1v2qtlt0">                                       <div>                                          <div class="custom-oda-messenger-card-component">                                            <div class="custom-oda-ogdsf2 e15odeg10">                                             <div class="custom-oda-messenger-card-list-item custom-oda-1thajcg ebvwrrs0" aria-disabled="false" role="button" tabindex="0">                                                      <div class="custom-oda-tg33l ebvwrrs1">                                                         <div class="custom-oda-1c8rdjc ebvwrrs3">                                            <span class="custom-oda-messenger-card-list-item-text-subtitle-secondary-text">برجاء العلم أن الخدمة للاستعلام فقط عن المنتجات والخدمات المقدمة من البنك للعملاء الأفراد والشركات. <br>حافظ علي بياناتك ولا تشارك أرقامك السرية سواء الأرقام أو الأكواد الخاصة بحساباتك أو ببطاقاتك المصرفية ولا تفصح عن بياناتك الشخصية أو المالية أثناء استخدام الخدمة.<br>(للعلم سيتم الاحتفاظ بكافة المحادثات من قبل البنك لضمان مستوى الجودة) .</span> </div> <div class="customBanner-disclaimer"></div>                             </div>                                                   </div>                                                </div>                                             </div>                                          </div>                                       </div>                                    </div>                                 </div>                              </div>                           </div>                        </div>                     </div>                  </div>               <div class="footer-3VL5n" data-v-7e8f4192="">                  <div data-v-253cbc92="" class="footer-3Q0Az">                     <button id="agreeBtn" class="new-conversation-button custom-oda-1qvvmlf e1prtmiu0" onclick="javascript:window.parent.sendStartMessageAr();" tabindex="0">                        <div class="custom-oda-18biwo e1prtmiu1">                           <span>ابدأ المحادثة</span>                                                                      </div>                     </button>                  </div>               </div>            </div>         </main>      </div>   </div></div><div dir="auto" class="oda-chat-header" style="display: none;"><img src="./book_files/NBE_HEADER_NEW_AR.png" dir="auto" class="oda-chat-logo"><div dir="auto" class="oda-chat-header-info-wrapper"></div><div dir="auto" class="oda-chat-header-actions"><button type="button" dir="auto" class="oda-chat-header-button oda-chat-button-close" title="Close widget"><img src="./book_files/closeIconBanner_Orange.svg" alt="Close widget" dir="auto" class="oda-chat-header-button-img-icon"></button></div></div><div dir="auto" class="oda-chat-conversation" id="chat_widget_main" style="display: none;"><div dir="auto" class="oda-chat-conversation-pane"><div dir="auto"></div><div dir="auto" class="oda-chat-conversation-container" role="log" aria-live="polite" aria-atomic="false"></div></div></div><div dir="auto" class="oda-chat-footer oda-chat-mode-keyboard" style="display: none;"><div dir="auto" class="oda-chat-footer-mode-keyboard"><textarea dir="auto" class="oda-chat-user-input ui-autocomplete-input" aria-label="أكتب شيئا ...." placeholder="أكتب شيئا ...." rows="1" autocomplete="off"></textarea><button type="button" dir="auto" class="oda-chat-footer-button oda-chat-button-send" title="Send message" disabled=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="Send message" class="oda-chat-footer-button-svg-icon"><path d="M22.355 1.065l.043.02a.993.993 0 01.294.195l.015.015a1.02 1.02 0 01.204.292l.009.022a.97.97 0 01.03.704l-.006.02-7 20c-.3.854-1.49.903-1.858.075l-3.844-8.648-8.648-3.844c-.828-.368-.78-1.559.076-1.858l20-7 .019-.007a.997.997 0 01.041-.012l-.06.02a.87.87 0 01.145-.04l.017-.003a.967.967 0 01.523.05zm-2.747 4.743l-7.416 7.416 2.697 6.067zm-1.415-1.415L4.711 9.113l6.066 2.696z"></path></svg></button></div><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div class="footerBtns" style="display: none;"><button class="restartLeftBtns">Restart Conversation</button><button class="restartRightBtns">إعادة المحادثة</button></div></div><button type="button" dir="auto" class="oda-chat-button" title=""><img src="./book_files/NBE_BOT_ICON.png" dir="auto" class="oda-chat-button-icon"></button></div><div class="oda-new-popup"><div class="oda-fabs"><button class="closeIconBanner" onclick="popUpHide()"></button><div class="oda-fab-chat" onclick="openODA()"><div class="oda-chat_header"><div class="oda-chat_option"><span class="oda-fab-header_title">مرحبا، 👋</span><span class="oda-fab-field_title">دعنا نتحدث إذا كان لديك أي أسئلة</span><div class="bot_circle_wrapper"><img class="oda-new-popup-avatar" src="./book_files/NBE_AVATAR_NEW.svg"></div></div></div></div></div></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
